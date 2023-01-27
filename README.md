@@ -7,7 +7,7 @@ The purpose of an AI Creator Archive is to provide transparency and recognition 
 It is also useful for people who are interested in learning about the history and development of AI and the people behind it.
 
 ## Contributing to the AI Creator Archive
-Just open an issue with your user name, model name, model version, and model direct link or Google Drive link.
+Just open an issue with your username, model name, model version, model direct link or Google Drive link, and if you want, an info.txt
 
 ## Automation Design
 
