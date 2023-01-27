@@ -26,8 +26,10 @@ All files and the Colab notebook will be created with the server, the Colab will
 │           └── creator_username-model_name-model_version-image_3.png   # the PNG info should be included within the images
 │           └── creator_username-model_name-model_version-image_4.png   # all images will auto regenerated with the PNG info and overwrite these four images
 │           └── creator_username-model_name-model_version-links.txt     # check links.txt format
-│           └── creator_username-model_name-model_version-info.txt      # check info.txt format
+│           └── creator_username-model_name-model_version-tokens.txt    # check tokens.txt format
 │           └── creator_username-model_name-model_version-online.txt    # check online.txt format
+│           └── creator_username-model_name-model_version-info.txt      # check info.txt format
+│           └── creator_username-model_name-model_version-model.json    # check model.json format
 └── ...
 ```
 
@@ -42,10 +44,13 @@ Each line must contain one direct link to the model, not the model page. The mag
 └── magnet:?xt=urn:btih:000000&dn=model&tr=udp://tracker.com&tr=udp://tracker.org/announce
 ```
 
-#### info.txt format
+#### tokens.txt format
 
 ```
-With a file size of 10KB, do whatever you want.
+Each line must contain one token.
+
+├── analog style
+└── dreamlikeart style
 ```
 
 #### online.txt format
@@ -55,6 +60,23 @@ Online service links, such as Google Colab
 Each line must contain one link.
 
 ├── https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_webui_colab.ipynb
+```
+
+#### info.txt format
+
+```
+With a file size of 10KB, do whatever you want.
+```
+
+#### model.json format
+
+```
+model.json contains all of the data inside the files links.txt, tokens.txt, online.txt, info.txt, and image links.
+```
+
+#### all.json
+```
+all.json contains all of the data from the model.json files.
 ```
 
 ## Archive PyTorch Backup
