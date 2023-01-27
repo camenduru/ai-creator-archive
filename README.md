@@ -44,10 +44,15 @@ With a file size of 10KB, do whatever you want.
 
 ## Archive PyTorch Backup
 
-All models in this archive will be stored at this link: https://huggingface.co/ckpt and the link will be written in the 'models links.txt' file.
+All PyTorch safetensors and ckpt models in this archive will be stored at this link: https://huggingface.co/ckpt and the link will be written in the 'models links.txt' file.
 If we can find more cloud storage sponsors, we will create multiple backups, including backups of backups and backups of backups of backups of backups of ... <br />
 We will also publish reports on the relationships between each model and its parent models, as well as the mixture percentages.
 
-## Archive Flax Backup
+## Archive Flax Diffusers Lib Backup
+All Flax Diffusers Lib safetensors and msgpack weights in this archive will be stored at this link: https://huggingface.co/flax and the link will be written in the 'models flax-links.txt' file.
 
-https://huggingface.co/flax
+## Archive PyTorch Diffusers Lib Backup
+All PyTorch Diffusers Lib safetensors and bin weights in this archive will be stored at this link: https://huggingface.co/pt and the link will be written in the 'models pt-links.txt' file.
+
+## Archive Embed Backup
+Textual Inversion, LoRA models will be stored at this link: https://huggingface.co/embed (Another archival project will be announced soon)
