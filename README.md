@@ -30,10 +30,10 @@ It is also useful for people who are interested in learning about the history an
 
 ```
 Models should be PyTorch safetensors format if not please convert with this https://github.com/camenduru/converter-colab
-Each line must contain one link or magnet
+Each line must contain one direct link to the model, not the model page. The magnet should contain only the model.
 
-├── https://huggingface.co/username/modelname
-└── https://civitai.com/models/0000
+├── https://huggingface.co/ckpt/stable-diffusion-2/resolve/main/768-v-ema.ckpt
+└── https://civitai.com/api/download/models/0000?type=Pruned%20Model&format=SafeTensor
 └── magnet:?xt=urn:btih:000000&dn=model&tr=udp://tracker.com&tr=udp://tracker.org/announce
 ```
 
@@ -47,7 +47,7 @@ With a file size of 10KB, do whatever you want.
 
 ```
 Online service links, such as Google Colab
-Each line must contain one link
+Each line must contain one link.
 
 ├── https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_webui_colab.ipynb
 ```
