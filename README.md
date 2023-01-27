@@ -22,6 +22,7 @@ It is also useful for people who are interested in learning about the history an
 │           └── creator_username-model_name-model_version-image_4.png   # all images will auto regenerated with the PNG info and overwrite these four images
 │           └── creator_username-model_name-model_version-links.txt     # check links.txt format
 │           └── creator_username-model_name-model_version-info.txt      # check info.txt format
+│           └── creator_username-model_name-model_version-online.txt    # check online.txt format
 └── ...
 ```
 
@@ -40,6 +41,14 @@ Each line must contain one link or magnet
 
 ```
 With a file size of 10KB, do whatever you want.
+```
+
+#### online.txt format
+
+```
+Online service links, such as Google Colab
+Each line must contain one link
+├── https://github.com/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_webui_colab.ipynb
 ```
 
 ## Archive PyTorch Backup
