@@ -41,3 +41,10 @@ each line must contain one link or magnet
 ```
 With a file size of 10KB, do whatever you want.
 ```
+
+## Archive Backup Repo
+
+```
+all models in this archive will be stored in this link
+```
+https://huggingface.co/ckpt
