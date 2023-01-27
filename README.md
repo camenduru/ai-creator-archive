@@ -30,8 +30,7 @@ It is also useful for people who are interested in learning about the history an
 ```
 Each line must contain one link or magnet
 
-├── https://huggingface.co/camenduru/plushies
-└── https://civitai.com/models/0000
+├── https://huggingface.co/username/modelname
 └── https://civitai.com/models/0000
 └── magnet:?xt=urn:btih:000000&dn=model&tr=udp://tracker.com&tr=udp://tracker.org/announce
 ```
