@@ -19,7 +19,7 @@ It is also useful for people who are interested in learning about the history an
 │           └── creator_username-model_name-model_version-image_1.png   # 4 images should be generated for each version
 │           └── creator_username-model_name-model_version-image_2.png   # using the corresponding model version
 │           └── creator_username-model_name-model_version-image_3.png   # the PNG info should be included within the images
-│           └── creator_username-model_name-model_version-image_4.png
+│           └── creator_username-model_name-model_version-image_4.png   # all images will auto regenerated with the PNG info and overwrite these four images
 │           └── creator_username-model_name-model_version-links.txt     # check links.txt format
 │           └── creator_username-model_name-model_version-info.txt      # check info.txt format
 └── ...
