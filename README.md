@@ -49,7 +49,7 @@ With a file size of 10KB, do whatever you want.
 Online service links, such as Google Colab
 Each line must contain one link
 
-├── https://github.com/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_webui_colab.ipynb
+├── https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_webui_colab.ipynb
 ```
 
 ## Archive PyTorch Backup
