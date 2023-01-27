@@ -28,7 +28,7 @@ It is also useful for people who are interested in learning about the history an
 #### links.txt format
 
 ```
-each line has to containe one link or magnet
+Each line must contain one link or magnet
 
 ├── https://huggingface.co/camenduru/plushies
 └── https://civitai.com/models/0000
@@ -38,4 +38,6 @@ each line has to containe one link or magnet
 
 #### info.txt format
 
+```
 10kb file size do what you want
+```
