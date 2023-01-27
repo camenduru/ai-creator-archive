@@ -28,7 +28,8 @@ It is also useful for people who are interested in learning about the history an
 #### links.txt format
 
 ```
-Each line must contain one link or magnet
+models should be PyTorch safetensors format (if not you can use this https://github.com/camenduru/converter-colab)
+each line must contain one link or magnet
 
 ├── https://huggingface.co/username/modelname
 └── https://civitai.com/models/0000
