@@ -9,10 +9,12 @@ It is also useful for people who are interested in learning about the history an
 ## Contributing to the AI Creator Archive
 
 ### Folder Structure
+
+```
 .
 ├── ...
 ├── creator_username                                                    # username
-│   ├── model_name                                                      # lowercase model name if models name OrangeCocoaMix should be orange_cocoa_mix
+│   ├── model_name                                                      # OrangeCocoaMix should be orange_cocoa_mix
 │       ├── model_version                                               # model version format 1_0_0
 │           └── creator_username-model_name-model_version-image_1.png   # 4 images for each version
 │           └── creator_username-model_name-model_version-image_2.png
@@ -20,3 +22,4 @@ It is also useful for people who are interested in learning about the history an
 │           └── creator_username-model_name-model_version-image_4.png
 │           └── creator_username-model_name-model_version-info.txt
 └── ...
+```
