@@ -9,6 +9,9 @@ It is also useful for people who are interested in learning about the history an
 ## Contributing to the AI Creator Archive
 Just open an issue with your username, model name, model version, model direct link or Google Drive link, 4 images with PNG info, and if you want, an info.txt
 
+## Image Formats
+Images should not contain any nudity. Remember how GitHub deleted the web UI without warning.
+
 ## Automation Design
 
 All files and the Colab notebook will be created with the server, the Colab will be published on this link: https://github.com/camenduru/stable-diffusion-webui-colab
