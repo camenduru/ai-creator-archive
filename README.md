@@ -28,7 +28,7 @@ It is also useful for people who are interested in learning about the history an
 #### links.txt format
 
 ```
-models should be PyTorch safetensors format (if not you can use this https://github.com/camenduru/converter-colab)
+models should be PyTorch safetensors format if not please convert with this https://github.com/camenduru/converter-colab
 each line must contain one link or magnet
 
 ├── https://huggingface.co/username/modelname
