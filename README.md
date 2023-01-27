@@ -39,5 +39,5 @@ Each line must contain one link or magnet
 #### info.txt format
 
 ```
-10kb file size do what you want
+With a file size of 10KB, you can do whatever you want.
 ```
