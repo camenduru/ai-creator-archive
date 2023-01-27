@@ -52,7 +52,7 @@ We will also publish reports on the relationships between each model and its par
 All Flax Diffusers Lib safetensors and msgpack weights in this archive will be stored at this link: https://huggingface.co/flax and the link will be written in the 'models flax-links.txt' file.
 
 ## Archive PyTorch Diffusers Lib Backup
-All PyTorch Diffusers Lib safetensors and bin weights in this archive will be stored at this link: https://huggingface.co/pt and the link will be written in the 'models pt-links.txt' file.
+All PyTorch Diffusers Lib safetensors and bin weights in this archive will be stored at this link: https://huggingface.co/flax `pytorch` branch and the link will be written in the 'models pt-links.txt' file.
 
 ## Archive Embed Backup
 Textual Inversion, LoRA models will be stored at this link: https://huggingface.co/embed (Another archival project will be announced soon)
