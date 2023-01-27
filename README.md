@@ -27,12 +27,14 @@ It is also useful for people who are interested in learning about the history an
 
 #### links.txt format
 
+```
 each line has to containe one link or magnet
 
 ├── https://huggingface.co/camenduru/plushies
 └── https://civitai.com/models/0000
 └── https://civitai.com/models/0000
 └── magnet:?xt=urn:btih:000000&dn=model&tr=udp://tracker.com&tr=udp://tracker.org/announce
+```
 
 #### info.txt format
 
