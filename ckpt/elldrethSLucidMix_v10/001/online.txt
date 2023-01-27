@@ -1,0 +1,1 @@
+https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/elldreths_lucid_mix_v10_webui_colab.ipynb

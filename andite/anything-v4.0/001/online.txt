@@ -1,0 +1,1 @@
+https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/anything_4_webui_colab.ipynb

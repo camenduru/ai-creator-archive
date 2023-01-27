@@ -1,0 +1,1 @@
+https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/openjourney_v2_diffusion_webui_colab.ipynb
