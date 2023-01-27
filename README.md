@@ -28,8 +28,8 @@ It is also useful for people who are interested in learning about the history an
 #### links.txt format
 
 ```
-models should be PyTorch safetensors format if not please convert with this https://github.com/camenduru/converter-colab
-each line must contain one link or magnet
+Models should be PyTorch safetensors format if not please convert with this https://github.com/camenduru/converter-colab
+Each line must contain one link or magnet
 
 ├── https://huggingface.co/username/modelname
 └── https://civitai.com/models/0000
@@ -44,7 +44,5 @@ With a file size of 10KB, do whatever you want.
 
 ## Archive Backup Repo
 
-```
-all models in this archive will be stored in this link
-```
-https://huggingface.co/ckpt
+All models in this archive will be stored at this link: https://huggingface.co/ckpt
+and the link will be written in the 'models links.txt' file.
