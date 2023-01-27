@@ -44,5 +44,4 @@ With a file size of 10KB, do whatever you want.
 
 ## Archive Backup Repo
 
-All models in this archive will be stored at this link: https://huggingface.co/ckpt
-and the link will be written in the 'models links.txt' file.
+All models in this archive will be stored at this link: https://huggingface.co/ckpt and the link will be written in the 'models links.txt' file.
