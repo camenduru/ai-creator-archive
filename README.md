@@ -20,6 +20,20 @@ It is also useful for people who are interested in learning about the history an
 │           └── creator_username-model_name-model_version-image_2.png
 │           └── creator_username-model_name-model_version-image_3.png
 │           └── creator_username-model_name-model_version-image_4.png
-│           └── creator_username-model_name-model_version-info.txt
+│           └── creator_username-model_name-model_version-links.txt     # check links.txt format
+│           └── creator_username-model_name-model_version-info.txt      # check info.txt format
 └── ...
 ```
+
+#### links.txt format
+
+each line has to containe one link or magnet
+
+├── https://huggingface.co/camenduru/plushies
+└── https://civitai.com/models/0000
+└── https://civitai.com/models/0000
+└── magnet:?xt=urn:btih:000000&dn=model&tr=udp://tracker.com&tr=udp://tracker.org/announce
+
+#### info.txt format
+
+10kb file size do what you want
