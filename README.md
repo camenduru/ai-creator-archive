@@ -46,3 +46,4 @@ With a file size of 10KB, do whatever you want.
 
 All models in this archive will be stored at this link: https://huggingface.co/ckpt and the link will be written in the 'models links.txt' file.
 If we can find more cloud storage sponsors, we will create multiple backups, including backups of backups and backups of backups of backups of backups of ...
+We will also publish reports on the relationships between each model and its parent models, as well as the mixture percentages.
