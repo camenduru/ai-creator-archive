@@ -11,6 +11,8 @@ Just open an issue with your user name, model name, model version, and model dir
 
 ## Automation Design
 
+All files and the Colab notebook will be created with the server, the Colab will be published on this link: https://github.com/camenduru/stable-diffusion-webui-colab
+
 ### Folder Structure
 
 ```
