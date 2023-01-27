@@ -13,9 +13,9 @@ It is also useful for people who are interested in learning about the history an
 ```
 .
 ├── ...
-├── creator_username                                                    # username
-│   ├── model_name                                                      # OrangeCocoaMix should be orange_cocoa_mix
-│       ├── model_version                                               # model version format 1_0_0
+├── creator_username                                                    # username format if UseR_Nam3 should be user_nam3
+│   ├── model_name                                                      # model name format if OrangeCocoaMix should be orange_cocoa_mix
+│       ├── model_version                                               # model version format if v0.1.0 should be 010
 │           └── creator_username-model_name-model_version-image_1.png   # 4 images should be generated for each version, using the corresponding model version.
 │           └── creator_username-model_name-model_version-image_2.png
 │           └── creator_username-model_name-model_version-image_3.png
