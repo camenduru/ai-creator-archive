@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/Stable_Diffusion_PaperCut_Model/resolve/main/PaperCut_v1.ckpt

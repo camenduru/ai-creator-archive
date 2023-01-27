@@ -1,0 +1,3 @@
+https://huggingface.co/ckpt/DucHaitenAIart_v1.1a/resolve/main/DucHaitenAIart_v1.1a_emaonly.ckpt
+https://huggingface.co/ckpt/DucHaitenAIart_v2.0/resolve/main/DucHaitenAIart_v2.0-emaonly.safetensors
+https://huggingface.co/DucHaiten/DucHaitenDarkside/resolve/main/DucHaitenDarkside_v1.0.safetensors

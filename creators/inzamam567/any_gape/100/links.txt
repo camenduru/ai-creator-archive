@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/AnyGape/resolve/main/AnythingGape-fp16.ckpt

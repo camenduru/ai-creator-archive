@@ -1,0 +1,3 @@
+https://huggingface.co/ckpt/OrangeMixs/resolve/main/AbyssOrangeMix2_nsfw.safetensors
+https://huggingface.co/ckpt/OrangeMixs/resolve/main/AbyssOrangeMix2_hard.safetensors
+https://huggingface.co/ckpt/OrangeCocoaMix/resolve/main/OrangeCocoaMix2_hard.safetensors

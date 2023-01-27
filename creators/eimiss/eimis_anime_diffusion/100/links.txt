@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/EimisAnimeDiffusion_1.0v/resolve/main/EimisAnimeDiffusion_1-0v.ckpt

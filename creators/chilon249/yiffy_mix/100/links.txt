@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/yiffymix/resolve/main/yiffymix.safetensors

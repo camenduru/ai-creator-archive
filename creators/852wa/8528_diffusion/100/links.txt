@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/8528-diffusion/resolve/main/8528d-final.ckpt

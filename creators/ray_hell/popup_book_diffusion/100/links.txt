@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/popupBook-diffusion/resolve/main/popupBook-diffusion-v1.ckpt

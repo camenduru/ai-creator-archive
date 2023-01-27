@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/vintedois-diffusion-v0-1/resolve/main/vintedois_0_1.ckpt

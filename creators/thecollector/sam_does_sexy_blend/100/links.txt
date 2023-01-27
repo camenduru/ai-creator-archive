@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/samdoessexy-blend/resolve/main/samdoessexyBlend.safetensors

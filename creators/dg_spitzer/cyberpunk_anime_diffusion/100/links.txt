@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/Cyberpunk-Anime-Diffusion/resolve/main/Cyberpunk-Anime-Diffusion.ckpt

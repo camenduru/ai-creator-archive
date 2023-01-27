@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/Cinematic-Diffusion/resolve/main/syberart.ckpt

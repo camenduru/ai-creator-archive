@@ -1,0 +1,1 @@
+https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/dream_like_sam_kuvshino_webui_colab.ipynb

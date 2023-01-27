@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/cool-japan-diffusion-2-1-0/resolve/main/v2-1-0.ckpt

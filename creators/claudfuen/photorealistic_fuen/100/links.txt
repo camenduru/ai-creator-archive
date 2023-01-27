@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/photorealistic-fuen-v1/resolve/main/photorealistic-fuen-v1.ckpt

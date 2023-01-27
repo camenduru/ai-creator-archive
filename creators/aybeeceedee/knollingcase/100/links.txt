@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/knollingcase/resolve/main/knollingcase.ckpt

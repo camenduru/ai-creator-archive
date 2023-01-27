@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/seek.art_MEGA/resolve/main/seek_art_mega_v1.ckpt

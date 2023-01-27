@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/OpenAnimeJourney/resolve/main/OpenAnimeJourney.ckpt

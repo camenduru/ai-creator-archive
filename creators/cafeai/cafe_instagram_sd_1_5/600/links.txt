@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/cafe-instagram-sd-1-5-v6/resolve/main/instagram-latest-plus-clip-v6e1_50000.safetensors

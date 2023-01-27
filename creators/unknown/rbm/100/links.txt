@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/rbm/resolve/main/rbm.ckpt

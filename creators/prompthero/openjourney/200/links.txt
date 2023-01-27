@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/openjourney-v2/resolve/main/openjourney-v2.ckpt

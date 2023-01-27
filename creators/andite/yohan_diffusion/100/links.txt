@@ -1,0 +1,2 @@
+https://huggingface.co/ckpt/yohan-diffusion/resolve/main/yohan-diffusion.ckpt
+https://huggingface.co/ckpt/yohan-diffusion/resolve/main/Cocoa.ckpt

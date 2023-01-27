@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/pony-diffusion-v2/resolve/main/pony-diffusion-v2.ckpt

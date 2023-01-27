@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/Protogen_V2.2/resolve/main/Protogen_V2.2.ckpt

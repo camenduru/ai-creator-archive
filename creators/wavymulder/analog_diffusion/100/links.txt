@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/Analog-Diffusion/resolve/main/analog-diffusion-1.0.ckpt

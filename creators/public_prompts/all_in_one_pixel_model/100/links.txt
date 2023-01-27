@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/All-In-One-Pixel-Model/resolve/main/Public-Prompts-Pixel-Model.ckpt

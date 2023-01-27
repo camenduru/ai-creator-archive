@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/elldrethSLucidMix_v10/resolve/main/elldrethSLucidMix_v10.ckpt

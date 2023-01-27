@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/mo-di-diffusion/resolve/main/moDi-v1-pruned.ckpt

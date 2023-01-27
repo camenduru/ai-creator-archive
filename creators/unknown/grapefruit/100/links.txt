@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/grapefruit/resolve/main/grapefruit.safetensors

@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/midjourney-v4-diffusion/resolve/main/mdjrny-v4.ckpt

@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/hasdx/resolve/main/hasdx_emaonly.ckpt

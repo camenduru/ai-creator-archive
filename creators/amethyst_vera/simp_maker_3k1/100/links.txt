@@ -1,0 +1,4 @@
+https://huggingface.co/ckpt/SimpMaker-3K1/resolve/main/SimpMaker%203k.ckpt
+https://huggingface.co/ckpt/SimpMaker-3K1/resolve/main/SimpMaker%203k1.ckpt
+https://huggingface.co/ckpt/SimpMaker-3K1/resolve/main/SimpMaker%203k2.ckpt
+https://huggingface.co/ckpt/SimpMaker-3K1/resolve/main/SimpMaker%203k3.ckpt

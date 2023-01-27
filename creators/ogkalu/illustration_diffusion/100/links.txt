@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/Illustration-Diffusion/resolve/main/hollie-mengert.ckpt

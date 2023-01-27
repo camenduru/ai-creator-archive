@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/Van-Gogh-diffusion/resolve/main/Van-Gogh-Style-lvngvncnt-v2.ckpt

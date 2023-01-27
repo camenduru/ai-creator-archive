@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/sd14/resolve/main/sd-v1-4.ckpt

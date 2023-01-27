@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/stable-diffusion-2-1-base/resolve/main/v2-1_512-ema-pruned.ckpt

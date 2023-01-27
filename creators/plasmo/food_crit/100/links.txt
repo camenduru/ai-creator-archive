@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/food-crit/resolve/main/food_crit.ckpt

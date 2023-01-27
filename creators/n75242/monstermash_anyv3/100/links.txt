@@ -1,0 +1,2 @@
+https://huggingface.co/ckpt/monstermash_anyv3/resolve/main/monstermash4%2Banyv3.safetensors
+https://huggingface.co/ckpt/monstermash_anyv3/resolve/main/monstermash6%2Banyv3.safetensors
