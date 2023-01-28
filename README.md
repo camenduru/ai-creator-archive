@@ -28,17 +28,19 @@ All files and the Colab notebook will be created with the server, the Colab will
 .
 ├── ...
 ├── creator_username                                                    # username format if UseR_Nam3 should be user_nam3
-│   ├── model_name                                                      # model name format if OrangeCocoaMix should be orange_cocoa_mix
-│       ├── model_version                                               # model version format if v0.1.0 should be 010
-│           └── creator_username-model_name-model_version-image_1.png   # 4 images should be generated for each version
-│           └── creator_username-model_name-model_version-image_2.png   # using the corresponding model version
-│           └── creator_username-model_name-model_version-image_3.png   # the PNG info should be included within the images
-│           └── creator_username-model_name-model_version-image_4.png   # all images will auto regenerated with the PNG info and overwrite these four images
-│           └── creator_username-model_name-model_version-links.txt     # check links.txt format
-│           └── creator_username-model_name-model_version-tokens.txt    # check tokens.txt format
-│           └── creator_username-model_name-model_version-online.txt    # check online.txt format
-│           └── creator_username-model_name-model_version-info.txt      # check info.txt format
-│           └── creator_username-model_name-model_version-model.json    # check model.json format
+│   └── model_name                                                      # model name format if OrangeCocoaMix should be orange_cocoa_mix
+│       └── model_version                                               # model version format if v0.1.0 should be 010
+│           ├── image_1.png   # 4 images should be generated for each version
+│           ├── image_2.png   # using the corresponding model version
+│           ├── image_3.png   # the PNG info should be included within the images
+│           ├── image_4.png   # all images will auto regenerated with the PNG info and overwrite these four images
+│           ├── links.txt     # check links.txt format
+│           ├── tokens.txt    # check tokens.txt format
+│           ├── online.txt    # check online.txt format
+│           ├── images.txt    # check images.txt format
+│           ├── info.txt      # check info.txt format
+│           └── model.json    # check model.json format
+├── all.json
 └── ...
 ```
 
@@ -49,7 +51,7 @@ Models should be PyTorch safetensors format if not please convert with this http
 Each line must contain one direct link to the model, not the model page. The magnet should contain only the model.
 
 ├── https://huggingface.co/ckpt/stable-diffusion-2/resolve/main/768-v-ema.ckpt
-└── https://civitai.com/api/download/models/0000?type=Pruned%20Model&format=SafeTensor
+├── https://civitai.com/api/download/models/0000?type=Pruned%20Model&format=SafeTensor
 └── magnet:?xt=urn:btih:000000&dn=model&tr=udp://tracker.com&tr=udp://tracker.org/announce
 ```
 
@@ -69,6 +71,19 @@ Online service links, such as Google Colab
 Each line must contain one link.
 
 ├── https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_webui_colab.ipynb
+```
+
+#### images.txt format
+
+```
+4 images should be generated for each version using the corresponding model version, the PNG info should be included within the images all images will auto regenerated with the PNG info and overwrite these four images
+
+Each line must contain one image url.
+
+├── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/image1.png
+├── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/image2.png
+├── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/image3.png
+└── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/image4.png
 ```
 
 #### info.txt format
