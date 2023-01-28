@@ -1,7 +1,11 @@
+## Motivation and Action
+
+Maybe someday, your favorite AI company will force you to make your stable diffusion models private. It's time to copy and paste them to other cloud providers to ensure they can't be taken down. This repo will begin with 105 models from the stable-diffusion-webui-colab project and will provide a simple JSON file for the data inside. It will continue to grow.
+
 ## What is the AI Creator Archive 
 
-An AI Creator Archive is a collection or repository of information about the individuals and teams who create and develop artificial intelligence models. 
-The archive can include information such as the creators' research interests, and notable contributions to the field of AI.
+An AI Creator Archive is a repository of information about the individuals and teams who create and develop artificial intelligence models. 
+The archive can include information such as the creators' notable contributions to the field of AI.
 It also include information about the AI models they have developed. 
 The purpose of an AI Creator Archive is to provide transparency and recognition for the creators of AI models. 
 It is also useful for people who are interested in learning about the history and development of AI and the people behind it.
