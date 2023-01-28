@@ -30,10 +30,10 @@ All files and the Colab notebook will be created with the server, the Colab will
 ├── creator_username                                                    # username format if UseR_Nam3 should be user_nam3
 │   └── model_name                                                      # model name format if OrangeCocoaMix should be orange_cocoa_mix
 │       └── model_version                                               # model version format if v0.1.0 should be 010
-│           ├── image_1.png   # 4 images should be generated for each version
-│           ├── image_2.png   # using the corresponding model version
-│           ├── image_3.png   # the PNG info should be included within the images
-│           ├── image_4.png   # all images will auto regenerated with the PNG info and overwrite these four images
+│           ├── 1.png   # 4 images should be generated for each version
+│           ├── 2.png   # using the corresponding model version
+│           ├── 3.png   # the PNG info should be included within the images
+│           ├── 4.png   # all images will auto regenerated with the PNG info and overwrite these four images
 │           ├── links.txt     # check links.txt format
 │           ├── tokens.txt    # check tokens.txt format
 │           ├── online.txt    # check online.txt format
@@ -80,10 +80,10 @@ Each line must contain one link.
 
 Each line must contain one image url.
 
-├── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/image1.png
-├── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/image2.png
-├── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/image3.png
-└── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/image4.png
+├── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/1.png
+├── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/2.png
+├── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/3.png
+└── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/4.png
 ```
 
 #### info.txt format
