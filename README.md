@@ -76,8 +76,9 @@ Each line must contain one link.
 #### images.txt format
 
 ```
-4 images should be generated for each version using the corresponding model version, the PNG info should be included within the images all images will auto regenerated with the PNG info and overwrite these four images
-
+4 images should be generated for each version using the corresponding model version
+The PNG info should be included within the images
+All images will auto regenerated with the PNG info and overwrite these four images
 Each line must contain one image url.
 
 ├── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/1.png
