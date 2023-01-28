@@ -27,13 +27,13 @@ All files and the Colab notebook will be created with the server, the Colab will
 ```
 .
 ├── ...
-├── creator_username                                                    # username format if UseR_Nam3 should be user_nam3
-│   └── model_name                                                      # model name format if OrangeCocoaMix should be orange_cocoa_mix
-│       └── model_version                                               # model version format if v0.1.0 should be 010
-│           ├── 1.png   # 4 images should be generated for each version
-│           ├── 2.png   # using the corresponding model version
-│           ├── 3.png   # the PNG info should be included within the images
-│           ├── 4.png   # all images will auto regenerated with the PNG info and overwrite these four images
+├── creator_username          # username format if UseR_Nam3 should be user_nam3
+│   └── model_name            # model name format if OrangeCocoaMix should be orange_cocoa_mix
+│       └── model_version     # model version format if v0.1.0 should be 010
+│           ├── 1.png         # 4 images should be generated for each version
+│           ├── 2.png         # using the corresponding model version
+│           ├── 3.png         # the PNG info should be included within the images
+│           ├── 4.png         # all images will auto regenerated with the PNG info and overwrite these four images
 │           ├── links.txt     # check links.txt format
 │           ├── tokens.txt    # check tokens.txt format
 │           ├── online.txt    # check online.txt format
