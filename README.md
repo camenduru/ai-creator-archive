@@ -94,7 +94,7 @@ Each line must contain one image url.
 #### info.txt format
 
 ```
-With a file size of 10KB, do whatever you want.
+With a file size of 10KB, do whatever you want. maybe example prompts.
 ```
 
 #### all.json

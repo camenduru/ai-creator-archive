@@ -8,25 +8,29 @@ new gridjs.Grid({
         name: 'username',
      }, {
         id: 'model_name',
-        name: 'model'
+        name: 'model',
      }, {
         id: 'model_version',
-        name: 'version'
+        name: 'version',
      }, {
         id: 'links',
-        name: 'links'
+        name: 'links',
+        formatter: (cells) => gridjs.html(`<a href='${cells[0]}'>${cells[0]}</a>`),
      }, {
         id: 'tokens',
-        name: 'tokens'
+        name: 'tokens',
      }, {
         id: 'online',
-        name: 'online'
+        name: 'online',
+        formatter: (cells) => gridjs.html(`<a href='${cells[0]}'>${cells[0]}</a>`),
      }, {
         id: 'images',
-        name: 'images'
+        name: 'images',
+        formatter: (cells) => gridjs.html(`<img src='${cells[0]}'><img src='${cells[1]}'><img src='${cells[2]}'><img src='${cells[3]}'>`),
      }, {
         id: 'info',
-        name: 'info'
+        name: 'info',
+        formatter: (cell) => gridjs.html(`<a href='${cell}'>${cell}</a>`),
      }],
      server: {
         url: 'https://aica.pages.dev/all.json',
