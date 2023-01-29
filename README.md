@@ -39,7 +39,6 @@ All files and the Colab notebook will be created with the server, the Colab will
 │           ├── online.txt    # check online.txt format
 │           ├── images.txt    # check images.txt format
 │           ├── info.txt      # check info.txt format
-│           └── model.json    # check model.json format
 ├── all.json
 └── ...
 ```
@@ -93,15 +92,9 @@ Each line must contain one image url.
 With a file size of 10KB, do whatever you want.
 ```
 
-#### model.json format
-
-```
-model.json contains all of the data inside the files links.txt, tokens.txt, online.txt, info.txt, and image links.
-```
-
 #### all.json
 ```
-all.json contains all of the data from the model.json files.
+all.json contains all of the data inside the files links.txt, tokens.txt, online.txt, info.txt, and image links.
 ```
 
 ## Archive PyTorch Backup
