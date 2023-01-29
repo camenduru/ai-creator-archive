@@ -1,9 +1,9 @@
 ## 🚦WIP🚦
 
-## API & Preview
+## JSON & Preview
 
-API:     https://aica.pages.dev/all.json <br />
-Preview: https://aica.pages.dev/
+JSON: https://aica.pages.dev/all.json <br />
+Preview: https://aica.pages.dev
 
 ## Motivation and Action
 
