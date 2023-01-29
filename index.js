@@ -5,7 +5,8 @@ new gridjs.Grid({
     pagination: true,
     columns: [{
         id: 'creator_username',
-        name: 'creator_username'
+        name: 'creator_username',
+        formatter: (cell) => html(`<b>${cell}</b>`)
      }, {
         id: 'model_name',
         name: 'model_name'
