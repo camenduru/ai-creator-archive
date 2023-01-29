@@ -1,4 +1,6 @@
-new gridjs.Grid({
+import { Grid, html } from "gridjs";
+
+const grid = new Grid({
     sort: true,
     resizable: true,
     search: true,
@@ -1464,4 +1466,4 @@ new gridjs.Grid({
             ]
         }
     ]
-  }).render(document.getElementById("wrapper"));
+  });
