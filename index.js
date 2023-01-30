@@ -78,9 +78,17 @@ divInside.style.textAlign = "right";
 divInside.style.color = "#c9d1d9";
 divInside.style.paddingTop = "6px";
 
+const json = document.createElement('a');
+const jsonSpan = document.createElement('span');
+jsonSpan.textContent = ' ' + String.fromCodePoint(128223) + ' ';
+json.href = "https://aica.pages.dev/all.json";
+json.textContent = 'https://aica.pages.dev/all.json';
+divInside.appendChild(jsonSpan);
+divInside.appendChild(json);
+
 const repo = document.createElement('a');
 const repoSpan = document.createElement('span');
-repoSpan.textContent = ' ' + String.fromCodePoint(127859) + ' ';
+repoSpan.textContent = ' ' + String.fromCodePoint(128451) + ' ';
 repo.href = "https://github.com/camenduru/ai-creator-archive";
 repo.textContent = 'https://github.com/camenduru/ai-creator-archive';
 divInside.appendChild(repoSpan);
