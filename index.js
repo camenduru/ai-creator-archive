@@ -25,6 +25,7 @@ new gridjs.Grid({
      }, {
         id: 'tokens',
         name: 'tokens',
+        width : '300px',
         formatter: (cells) => gridjs.html(`<small>${cells}</small>`),
      }, {
         id: 'online',
@@ -56,8 +57,8 @@ new gridjs.Grid({
          border: '0px',
       },
       th: {
-         'background-color': 'rgb(40 44 50)',
-         color: '#c9d1d9',
+         'background-color': '#161B22',
+         color: '#8B949E',
          border: '0px',
       },
       td: {
@@ -65,8 +66,7 @@ new gridjs.Grid({
          border: '0px solid rgb(40 44 50)',
       },
       footer  : {
-         'background-color': 'rgb(40 44 50)',
-         color: '#c9d1d9',
+         'background-color': '#161B22',
          border: '0px',
       }
    },
@@ -82,7 +82,7 @@ const json = document.createElement('a');
 const jsonSpan = document.createElement('span');
 jsonSpan.textContent = ' ' + String.fromCodePoint(128223) + ' ';
 json.href = "https://aica.pages.dev/all.json";
-json.textContent = 'https://aica.pages.dev/all.json';
+json.textContent = 'json';
 divInside.appendChild(jsonSpan);
 divInside.appendChild(json);
 
@@ -90,7 +90,7 @@ const repo = document.createElement('a');
 const repoSpan = document.createElement('span');
 repoSpan.textContent = ' ' + String.fromCodePoint(128451) + ' ';
 repo.href = "https://github.com/camenduru/ai-creator-archive";
-repo.textContent = 'https://github.com/camenduru/ai-creator-archive';
+repo.textContent = 'github';
 divInside.appendChild(repoSpan);
 divInside.appendChild(repo);
 
@@ -98,7 +98,7 @@ const sTwitter = document.createElement('a');
 const sTwitterSpan = document.createElement('span');
 sTwitterSpan.textContent = ' ' + String.fromCodePoint(128054) + ' ';
 sTwitter.href = "https://twitter.com/safetensors";
-sTwitter.textContent = 'https://twitter.com/safetensors';
+sTwitter.textContent = '@safetensors';
 divInside.appendChild(sTwitterSpan);
 divInside.appendChild(sTwitter);
 
@@ -106,7 +106,7 @@ const cTwitter = document.createElement('a');
 const cTwitterSpan = document.createElement('span');
 cTwitterSpan.textContent = ' ' + String.fromCodePoint(128035) + ' ';
 cTwitter.href = "https://twitter.com/camenduru";
-cTwitter.textContent = 'https://twitter.com/camenduru';
+cTwitter.textContent = '@camenduru';
 divInside.appendChild(cTwitterSpan);
 divInside.appendChild(cTwitter);
 
