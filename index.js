@@ -4,11 +4,11 @@ new gridjs.Grid({
     search: true,
     pagination: true,
     pagination: {
-      limit: 8,
+      limit: 7,
       summary: true
     },
     fixedHeader: true,
-    height: '850px',
+    height: '780px',
     columns: [{
         id: 'creator_username',
         name: 'username',
@@ -25,6 +25,7 @@ new gridjs.Grid({
      }, {
         id: 'tokens',
         name: 'tokens',
+        formatter: (cells) => gridjs.html(`<small>${cells}</small>`),
      }, {
         id: 'online',
         name: 'online',
