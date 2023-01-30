@@ -94,6 +94,14 @@ repo.textContent = 'github';
 divInside.appendChild(repoSpan);
 divInside.appendChild(repo);
 
+const colab = document.createElement('a');
+const colabSpan = document.createElement('span');
+colabSpan.textContent = ' ' + String.fromCodePoint(129426) + ' ';
+colab.href = "https://github.com/camenduru/stable-diffusion-webui-colab";
+colab.textContent = 'colab';
+divInside.appendChild(colabSpan);
+divInside.appendChild(colab);
+
 const sTwitter = document.createElement('a');
 const sTwitterSpan = document.createElement('span');
 sTwitterSpan.textContent = ' ' + String.fromCodePoint(128054) + ' ';
