@@ -4,7 +4,7 @@ new gridjs.Grid({
     search: true,
     pagination: true,
     pagination: {
-      limit: 12,
+      limit: 8,
       summary: true
     },
     fixedHeader: true,
@@ -32,7 +32,7 @@ new gridjs.Grid({
      }, {
         id: 'images',
         name: 'images',
-        formatter: (cells) => gridjs.html(`<img src='${cells[0]}'><img src='${cells[1]}'><img src='${cells[2]}'><img src='${cells[3]}'>`),
+        formatter: (cells) => gridjs.html(`<img src='https://via.placeholder.com/64'> <img src='https://via.placeholder.com/64'>`),
      }, {
         id: 'info',
         name: 'info',
@@ -60,7 +60,7 @@ new gridjs.Grid({
       },
       td: {
          'background-color': '#0d1117',
-         border: '0px solid rgb(40 44 50)'
+         border: '0px solid rgb(40 44 50)',
       },
       footer  : {
          'background-color': 'rgb(40 44 50)',
