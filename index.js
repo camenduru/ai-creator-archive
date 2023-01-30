@@ -53,21 +53,21 @@ new gridjs.Grid({
        },
       table: {
          color: '#c9d1d9',
-         border: '0px'
+         border: '0px',
       },
       th: {
          'background-color': 'rgb(40 44 50)',
          color: '#c9d1d9',
-         border: '0px'
+         border: '0px',
       },
       td: {
-         'background-color': '#0d1117',
+         'background-color': 'transparent !important',
          border: '0px solid rgb(40 44 50)',
       },
       footer  : {
          'background-color': 'rgb(40 44 50)',
          color: '#c9d1d9',
-         border: '0px'
+         border: '0px',
       }
    },
   }).render(document.getElementById("wrapper"));
