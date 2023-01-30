@@ -15,14 +15,14 @@ new gridjs.Grid({
      }, {
         id: 'links',
         name: 'links',
-        formatter: (cells) => gridjs.html(`<a href='${cells[0]}'>${cells[0]}</a>`),
+        formatter: (cells) => gridjs.html(`<a href='${cells[0]}'>${cells[0].split('/').pop().split('.').pop()}</a>`),
      }, {
         id: 'tokens',
         name: 'tokens',
      }, {
         id: 'online',
         name: 'online',
-        formatter: (cells) => gridjs.html(`<a href='${cells[0]}'>${cells[0]}</a>`),
+        formatter: (cells) => gridjs.html(`<a href='${cells[0]}'>colab</a>`),
      }, {
         id: 'images',
         name: 'images',
@@ -30,7 +30,7 @@ new gridjs.Grid({
      }, {
         id: 'info',
         name: 'info',
-        formatter: (cell) => gridjs.html(`<a href='${cell}'>${cell}</a>`),
+        formatter: (cell) => gridjs.html(`<a href='${cell}'>info</a>`),
      }],
      server: {
         url: 'https://aica.pages.dev/all.json',
