@@ -102,6 +102,49 @@ With a file size of 10KB, do whatever you want. maybe example prompts.
 #### all.json
 ```
 all.json contains all of the data inside the files links.txt, tokens.txt, online.txt, info.txt, and image links.
+
+[
+    {
+        "creator_username": "22h",
+        "images": [
+            "https://aica.pages.dev/creators/22h/vintedois_diffusion/010/1.png",
+            "https://aica.pages.dev/creators/22h/vintedois_diffusion/010/2.png",
+            "https://aica.pages.dev/creators/22h/vintedois_diffusion/010/3.png",
+            "https://aica.pages.dev/creators/22h/vintedois_diffusion/010/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/22h/vintedois_diffusion/010/info.txt",
+        "links": [
+            "https://huggingface.co/ckpt/vintedois-diffusion-v0-1/resolve/main/vintedois_0_1.ckpt"
+        ],
+        "model_name": "vintedois_diffusion",
+        "model_version": "010",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/vintedois_diffusion_0_1_webui_colab.ipynb"
+        ],
+        "tokens": [
+            "estilovintedois"
+        ]
+    },
+    {
+        "creator_username": "852wa",
+        "images": [
+            "https://aica.pages.dev/creators/852wa/8528_diffusion/100/1.png",
+            "https://aica.pages.dev/creators/852wa/8528_diffusion/100/2.png",
+            "https://aica.pages.dev/creators/852wa/8528_diffusion/100/3.png",
+            "https://aica.pages.dev/creators/852wa/8528_diffusion/100/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/852wa/8528_diffusion/100/info.txt",
+        "links": [
+            "https://huggingface.co/ckpt/8528-diffusion/resolve/main/8528d-final.ckpt"
+        ],
+        "model_name": "8528_diffusion",
+        "model_version": "100",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/8528_diffusion_webui_colab.ipynb"
+        ],
+        "tokens": []
+    }
+]
 ```
 
 ## Archive PyTorch Backup
