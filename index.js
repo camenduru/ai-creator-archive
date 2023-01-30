@@ -4,9 +4,11 @@ new gridjs.Grid({
     search: true,
     pagination: true,
     pagination: {
-      limit: 15,
+      limit: 12,
       summary: true
     },
+    fixedHeader: true,
+    height: '800px',
     columns: [{
         id: 'creator_username',
         name: 'username',
