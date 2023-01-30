@@ -71,3 +71,35 @@ new gridjs.Grid({
       }
    },
   }).render(document.getElementById("wrapper"));
+
+var div = document.getElementsByClassName('gridjs-head')[0];
+const divInside = document.createElement('div');
+divInside.style.textAlign = "right";
+divInside.style.color = "#c9d1d9";
+divInside.style.paddingTop = "6px";
+
+const repo = document.createElement('a');
+const repoSpan = document.createElement('span');
+repoSpan.textContent = ' ' + String.fromCodePoint(127859) + ' ';
+repo.href = "https://github.com/camenduru/ai-creator-archive";
+repo.textContent = 'https://github.com/camenduru/ai-creator-archive';
+divInside.appendChild(repoSpan);
+divInside.appendChild(repo);
+
+const sTwitter = document.createElement('a');
+const sTwitterSpan = document.createElement('span');
+sTwitterSpan.textContent = ' ' + String.fromCodePoint(128054) + ' ';
+sTwitter.href = "https://twitter.com/safetensors";
+sTwitter.textContent = 'https://twitter.com/safetensors';
+divInside.appendChild(sTwitterSpan);
+divInside.appendChild(sTwitter);
+
+const cTwitter = document.createElement('a');
+const cTwitterSpan = document.createElement('span');
+cTwitterSpan.textContent = ' ' + String.fromCodePoint(128035) + ' ';
+cTwitter.href = "https://twitter.com/camenduru";
+cTwitter.textContent = 'https://twitter.com/camenduru';
+divInside.appendChild(cTwitterSpan);
+divInside.appendChild(cTwitter);
+
+div.appendChild(divInside);
