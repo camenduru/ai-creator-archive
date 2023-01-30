@@ -9,7 +9,7 @@ Preview: https://aica.pages.dev
 
 ## Motivation and Action
 
-Maybe someday, your favorite AI company will force you to make your stable diffusion models private. It's time to copy and paste them to other cloud providers to ensure they can't be taken down. This repo will begin with 105 models from the stable-diffusion-webui-colab project and will provide a simple JSON file for the data inside. It will continue to grow.
+Maybe someday, your favorite AI company will force you to make your stable diffusion models private. It's time to copy and paste them to other cloud providers to ensure they can't be taken down. This repo will begin with 105 models from the [stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) project and will provide a simple JSON file for the data inside. It will continue to grow.
 
 ## What is the AI Creator Archive 
 
