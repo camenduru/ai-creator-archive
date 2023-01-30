@@ -161,5 +161,8 @@ All Flax Diffusers Lib safetensors and msgpack weights in this archive will be s
 ## Archive PyTorch Diffusers Lib Backup
 All PyTorch Diffusers Lib safetensors and bin weights in this archive will be stored at this link: https://huggingface.co/flax `pytorch` branch and the link will be written in the 'models pt-links.txt' file.
 
+## Archive Core ML Backup
+All Core ML Models in this archive will be stored at this link: https://huggingface.co/coreml and the link will be written in the 'models coreml-links.txt' file.
+
 ## Archive Embed Backup
 Textual Inversion, LoRA models will be stored at this link: https://huggingface.co/embed (Another archival project will be announced soon)
