@@ -8,7 +8,7 @@ new gridjs.Grid({
       summary: true
     },
     fixedHeader: true,
-    height: '800px',
+    height: '850px',
     columns: [{
         id: 'creator_username',
         name: 'username',
@@ -32,7 +32,8 @@ new gridjs.Grid({
      }, {
         id: 'images',
         name: 'images',
-        formatter: (cells) => gridjs.html(`<img src='https://via.placeholder.com/64'> <img src='https://via.placeholder.com/64'>`),
+        width : '300px',
+        formatter: (cells) => gridjs.html(`<img src='https://via.placeholder.com/64'> <img src='https://via.placeholder.com/64'> <img src='https://via.placeholder.com/64'> <img src='https://via.placeholder.com/64'>`),
      }, {
         id: 'info',
         name: 'info',
