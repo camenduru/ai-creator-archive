@@ -47,7 +47,8 @@ All files and the Colab notebook will be created with the server, the Colab will
 │           ├── tokens.txt    # check tokens.txt format
 │           ├── online.txt    # check online.txt format
 │           ├── images.txt    # check images.txt format
-│           ├── info.txt      # check info.txt format
+│           ├── type.txt      # check type.txt format
+│           └── info.txt      # check info.txt format
 ├── all.json
 └── ...
 ```
@@ -93,6 +94,12 @@ Each line must contain one image url.
 ├── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/2.png
 ├── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/3.png
 └── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/4.png
+```
+
+#### type.txt format
+
+```
+fine_tune, dreambooth, textual_inversion, hypernetwork, aesthetic_gradient, lora, blend
 ```
 
 #### info.txt format
