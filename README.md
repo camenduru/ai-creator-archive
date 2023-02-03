@@ -130,6 +130,9 @@ all.json contains all of the data inside the files links.txt, tokens.txt, online
         ],
         "tokens": [
             "estilovintedois"
+        ],
+        "type": [
+            "dreambooth"
         ]
     },
     {
@@ -149,7 +152,10 @@ all.json contains all of the data inside the files links.txt, tokens.txt, online
         "online": [
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/8528_diffusion_webui_colab.ipynb"
         ],
-        "tokens": []
+        "tokens": [],
+        "type": [
+            "fine_tune"
+        ]
     }
 ]
 ```
