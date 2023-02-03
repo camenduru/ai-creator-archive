@@ -40,11 +40,14 @@ new gridjs.Grid({
         id: 'info',
         name: 'info',
         formatter: (cell) => gridjs.html(`<a href='${cell}'>info</a>`),
+     }, {
+        id: 'type',
+        name: 'type',
      }],
      server: {
         url: 'https://aica.pages.dev/all.json',
         then: data => data.map(creator =>
-            [creator.creator_username, creator.model_name, creator.model_version,creator.links,creator.tokens,creator.online,creator.images,creator.info]
+            [creator.creator_username, creator.model_name, creator.model_version,creator.links,creator.tokens,creator.online,creator.images,creator.info,creator.type]
         )
     },
     style: {
