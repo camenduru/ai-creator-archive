@@ -177,3 +177,6 @@ All Core ML Models in this archive will be stored at this link: https://huggingf
 
 ## Archive Embed Backup
 Textual Inversion, LoRA models will be stored at this link: https://huggingface.co/embed (Another archival project will be announced soon)
+
+## Archive TensorRT Backup
+TensorRT models will be stored at this link: https://huggingface.co/trrt (Another archival project will be announced soon)
