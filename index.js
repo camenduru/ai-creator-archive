@@ -38,7 +38,7 @@ new gridjs.Grid({
      }, {
         id: 'images',
         name: 'images',
-        width : '300px',
+        width : '350px',
         formatter: (cells) => gridjs.html(`<img src='https://via.placeholder.com/64'> <img src='https://via.placeholder.com/64'> <img src='https://via.placeholder.com/64'> <img src='https://via.placeholder.com/64'>`),
      }, {
         id: 'info',
