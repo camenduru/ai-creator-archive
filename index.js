@@ -51,7 +51,7 @@ new gridjs.Grid({
      server: {
         url: 'https://aica.pages.dev/all.json',
         then: data => data.map(creator =>
-            [creator.creator_username, creator.model_name, creator.model_version,creator.links,creator.tokens,creator.online,creator.images,creator.info,creator.type,creator.vae]
+            [creator.creator_username, creator.model_name, creator.model_version,creator.links,creator.tokens,creator.vae,creator.online,creator.images,creator.info,creator.type]
         )
     },
     style: {
