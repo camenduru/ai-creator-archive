@@ -105,7 +105,7 @@ fine_tune, dreambooth, textual_inversion, hypernetwork, aesthetic_gradient, lora
 #### vae.txt format
 
 ```
-VAE link for the model format should be vae.pt
+VAE link for the model, name should be same_name_with_model.vae.pt
 Each line must contain one link.
 
 ├── https://huggingface.co/ckpt/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
