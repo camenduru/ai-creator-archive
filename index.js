@@ -30,7 +30,7 @@ new gridjs.Grid({
      }, {
         id: 'vae',
         name: 'vae',
-        formatter: (cells) => gridjs.html(`<a href='${cells[0]}'>vae</a>`),
+        formatter: (cells) => cells[0] ? gridjs.html(`<a href='${cells[0]}'>vae</a>`) : '',
      }, {
         id: 'online',
         name: 'online',
