@@ -47,6 +47,7 @@ All files and the Colab notebook will be created with the server, the Colab will
 │           ├── online.txt    # check online.txt format
 │           ├── images.txt    # check images.txt format
 │           ├── type.txt      # check type.txt format
+│           ├── vae.txt       # check vae.txt format
 │           └── info.txt      # check info.txt format
 ├── all.json
 └── ...
@@ -101,6 +102,15 @@ Each line must contain one image url.
 fine_tune, dreambooth, textual_inversion, hypernetwork, aesthetic_gradient, lora, blend
 ```
 
+#### vae.txt format
+
+```
+VAE link for the model format should be vae.pt
+Each line must contain one link.
+
+├── https://huggingface.co/ckpt/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
+```
+
 #### info.txt format
 
 ```
@@ -134,7 +144,8 @@ all.json contains all of the data inside the files links.txt, tokens.txt, online
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "852wa",
@@ -156,7 +167,8 @@ all.json contains all of the data inside the files links.txt, tokens.txt, online
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     }
 ]
 ```

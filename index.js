@@ -28,6 +28,10 @@ new gridjs.Grid({
         width : '300px',
         formatter: (cells) => gridjs.html(`<small>${cells}</small>`),
      }, {
+        id: 'vae',
+        name: 'vae',
+        formatter: (cells) => gridjs.html(`<a href='${cells[0]}'>vae</a>`),
+     }, {
         id: 'online',
         name: 'online',
         formatter: (cells) => gridjs.html(`<a href='${cells[0]}'>colab</a>`),
@@ -47,7 +51,7 @@ new gridjs.Grid({
      server: {
         url: 'https://aica.pages.dev/all.json',
         then: data => data.map(creator =>
-            [creator.creator_username, creator.model_name, creator.model_version,creator.links,creator.tokens,creator.online,creator.images,creator.info,creator.type]
+            [creator.creator_username, creator.model_name, creator.model_version,creator.links,creator.tokens,creator.online,creator.images,creator.info,creator.type,creator.vae]
         )
     },
     style: {
