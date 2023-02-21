@@ -21,7 +21,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "852wa",
@@ -43,7 +44,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "aipicasso",
@@ -65,7 +67,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "alexds9",
@@ -87,7 +90,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "amethyst_vera",
@@ -112,6 +116,9 @@
         "tokens": [],
         "type": [
             "fine_tune"
+        ],
+        "vae": [
+            "https://huggingface.co/ckpt/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt"
         ]
     },
     {
@@ -135,6 +142,9 @@
         "tokens": [],
         "type": [
             "fine_tune"
+        ],
+        "vae": [
+            "https://huggingface.co/ckpt/anything-v4.0/resolve/main/anything-v4.0.vae.pt"
         ]
     },
     {
@@ -158,6 +168,9 @@
         "tokens": [],
         "type": [
             "fine_tune"
+        ],
+        "vae": [
+            "https://huggingface.co/ckpt/anything-v3.0/resolve/main/Anything-V3.0.vae.pt"
         ]
     },
     {
@@ -180,7 +193,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "aybeeceedee",
@@ -204,7 +218,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "basunat",
@@ -228,7 +243,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "best_jammer",
@@ -250,7 +266,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "cafeai",
@@ -272,7 +289,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "chilon249",
@@ -294,6 +312,9 @@
         "tokens": [],
         "type": [
             "fine_tune"
+        ],
+        "vae": [
+            "https://huggingface.co/ckpt/waifu-diffusion-v1-4/resolve/main/kl-f8-anime2.ckpt"
         ]
     },
     {
@@ -316,7 +337,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "comp_vis",
@@ -338,7 +360,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "conflictx",
@@ -362,7 +385,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "coreco",
@@ -384,7 +408,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "dallinmackay",
@@ -408,7 +433,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "dg_spitzer",
@@ -432,7 +458,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "doubleyobro",
@@ -454,7 +481,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "dreamlike_art",
@@ -478,7 +506,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "dreamlike_art",
@@ -500,7 +529,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "duc_haiten",
@@ -524,7 +554,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "eimiss",
@@ -546,7 +577,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "envvi",
@@ -570,7 +602,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "fiacr",
@@ -597,7 +630,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "fictiverse",
@@ -621,7 +655,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "gsdf",
@@ -643,6 +678,9 @@
         "tokens": [],
         "type": [
             "fine_tune"
+        ],
+        "vae": [
+            "https://huggingface.co/ckpt/anything-v3.0/resolve/main/Anything-V3.0.vae.pt"
         ]
     },
     {
@@ -665,6 +703,9 @@
         "tokens": [],
         "type": [
             "fine_tune"
+        ],
+        "vae": [
+            "https://huggingface.co/ckpt/waifu-diffusion-v1-4/resolve/main/kl-f8-anime2.ckpt"
         ]
     },
     {
@@ -687,6 +728,9 @@
         "tokens": [],
         "type": [
             "fine_tune"
+        ],
+        "vae": [
+            "https://huggingface.co/ckpt/waifu-diffusion-v1-4/resolve/main/kl-f8-anime2.ckpt"
         ]
     },
     {
@@ -709,7 +753,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "hesw23168",
@@ -732,6 +777,9 @@
         "tokens": [],
         "type": [
             "fine_tune"
+        ],
+        "vae": [
+            "https://huggingface.co/ckpt/anything-v3.0/resolve/main/Anything-V3.0.vae.pt"
         ]
     },
     {
@@ -754,6 +802,9 @@
         "tokens": [],
         "type": [
             "fine_tune"
+        ],
+        "vae": [
+            "https://huggingface.co/ckpt/anything-v3.0/resolve/main/Anything-V3.0.vae.pt"
         ]
     },
     {
@@ -779,7 +830,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "josephus_cheung",
@@ -801,7 +853,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "josephus_cheung",
@@ -823,7 +876,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "josephus_cheung",
@@ -845,7 +899,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "mattgroy",
@@ -867,7 +922,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "mehjourney_closed_ai",
@@ -889,6 +945,9 @@
         "tokens": [],
         "type": [
             "fine_tune"
+        ],
+        "vae": [
+            "https://huggingface.co/ckpt/anything-v3.0/resolve/main/Anything-V3.0.vae.pt"
         ]
     },
     {
@@ -912,6 +971,9 @@
         "tokens": [],
         "type": [
             "fine_tune"
+        ],
+        "vae": [
+            "https://huggingface.co/ckpt/anything-v3.0/resolve/main/Anything-V3.0.vae.pt"
         ]
     },
     {
@@ -936,7 +998,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "nitrosocke",
@@ -960,7 +1023,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "ogkalu",
@@ -989,7 +1053,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "ogkalu",
@@ -1013,7 +1078,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "plasmo",
@@ -1037,7 +1103,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "plasmo",
@@ -1061,7 +1128,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "prompthero",
@@ -1085,7 +1153,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "prompthero",
@@ -1107,7 +1176,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "public_prompts",
@@ -1132,7 +1202,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "ray_hell",
@@ -1156,7 +1227,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "riffusion",
@@ -1178,7 +1250,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "runwayml",
@@ -1200,7 +1273,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "runwayml",
@@ -1222,7 +1296,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "sandro_halpo",
@@ -1246,7 +1321,8 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "sentet1c",
@@ -1268,6 +1344,9 @@
         "tokens": [],
         "type": [
             "fine_tune"
+        ],
+        "vae": [
+            "https://huggingface.co/ckpt/RandoMix3/resolve/main/RandoMix3.vae.pt"
         ]
     },
     {
@@ -1290,7 +1369,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "stabilityai",
@@ -1312,7 +1392,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "stabilityai",
@@ -1334,7 +1415,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "stabilityai",
@@ -1356,7 +1438,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "stabilityai",
@@ -1378,7 +1461,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "stabilityai",
@@ -1400,7 +1484,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "thecollector",
@@ -1422,7 +1507,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "unknown",
@@ -1444,6 +1530,9 @@
         "tokens": [],
         "type": [
             "fine_tune"
+        ],
+        "vae": [
+            "https://huggingface.co/ckpt/anything-v3.0/resolve/main/Anything-V3.0.vae.pt"
         ]
     },
     {
@@ -1466,7 +1555,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "unknown",
@@ -1488,7 +1578,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "unknown",
@@ -1510,6 +1601,9 @@
         "tokens": [],
         "type": [
             "fine_tune"
+        ],
+        "vae": [
+            "https://huggingface.co/ckpt/waifu-diffusion-v1-4/resolve/main/kl-f8-anime2.ckpt"
         ]
     },
     {
@@ -1532,7 +1626,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "unknown",
@@ -1554,7 +1649,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "unknown",
@@ -1576,7 +1672,8 @@
         "tokens": [],
         "type": [
             "fine_tune"
-        ]
+        ],
+        "vae": []
     },
     {
         "creator_username": "unknown",
@@ -1598,6 +1695,9 @@
         "tokens": [],
         "type": [
             "fine_tune"
+        ],
+        "vae": [
+            "https://huggingface.co/ckpt/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt"
         ]
     },
     {
@@ -1622,6 +1722,9 @@
         "tokens": [],
         "type": [
             "fine_tune"
+        ],
+        "vae": [
+            "https://huggingface.co/ckpt/anything-v3.0/resolve/main/Anything-V3.0.vae.pt"
         ]
     },
     {
@@ -1646,6 +1749,7 @@
         ],
         "type": [
             "dreambooth"
-        ]
+        ],
+        "vae": []
     }
 ]

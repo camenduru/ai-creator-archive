@@ -1,0 +1,1 @@
+https://huggingface.co/ckpt/anything-v4.0/resolve/main/anything-v4.0.vae.pt
