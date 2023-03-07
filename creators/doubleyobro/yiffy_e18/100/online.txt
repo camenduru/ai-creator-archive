@@ -1,1 +1,1 @@
-https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/yiffy_e18_webui_colab.ipynb
+https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/v1.6/yiffy_e18_webui_colab.ipynb

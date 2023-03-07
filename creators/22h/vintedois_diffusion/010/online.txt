@@ -1,1 +1,1 @@
-https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/vintedois_diffusion_0_1_webui_colab.ipynb
+https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/v1.6/vintedois_diffusion_0_1_webui_colab.ipynb
