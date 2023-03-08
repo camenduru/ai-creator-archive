@@ -1,1 +1,1 @@
-https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/v1.6/stable_diffusion_v2_inpainting_webui_colab.ipynb
+https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/v1.9/stable_diffusion_v2_inpainting_webui_colab.ipynb

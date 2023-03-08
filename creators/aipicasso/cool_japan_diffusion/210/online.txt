@@ -1,1 +1,1 @@
-https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/v1.6/cool_japan_diffusion_2_1_webui_colab.ipynb
+https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/v1.9/cool_japan_diffusion_2_1_webui_colab.ipynb
