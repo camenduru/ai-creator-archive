@@ -37,7 +37,7 @@ All files and the Colab notebook will be created with the server, the Colab will
 ├── ...
 ├── creator_username          # username format if UseR_Nam3 should be user_nam3
 │   └── model_name            # model name format if OrangeCocoaMix should be orange_cocoa_mix
-│       └── model_version     # model version format if v0.1.0 should be 010
+│       └── model_version     # model version format if v0.1.0 should be 0_1_0
 │           ├── 1.png         # 4 images should be generated for each version
 │           ├── 2.png         # using the corresponding model version
 │           ├── 3.png         # the PNG info should be included within the images
@@ -90,10 +90,10 @@ The PNG info should be included within the images
 All images will auto regenerated with the PNG info and overwrite these four images
 Each line must contain one image url.
 
-├── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/1.png
-├── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/2.png
-├── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/3.png
-└── https://aica.pages.dev/creators/basunat/cinematic_diffusion/100/4.png
+├── https://aica.pages.dev/creators/basunat/cinematic_diffusion/1_0_0/1.png
+├── https://aica.pages.dev/creators/basunat/cinematic_diffusion/1_0_0/2.png
+├── https://aica.pages.dev/creators/basunat/cinematic_diffusion/1_0_0/3.png
+└── https://aica.pages.dev/creators/basunat/cinematic_diffusion/1_0_0/4.png
 ```
 
 #### type.txt format
@@ -125,17 +125,17 @@ all.json contains all of the data inside the files links.txt, tokens.txt, online
     {
         "creator_username": "22h",
         "images": [
-            "https://aica.pages.dev/creators/22h/vintedois_diffusion/010/1.png",
-            "https://aica.pages.dev/creators/22h/vintedois_diffusion/010/2.png",
-            "https://aica.pages.dev/creators/22h/vintedois_diffusion/010/3.png",
-            "https://aica.pages.dev/creators/22h/vintedois_diffusion/010/4.png"
+            "https://aica.pages.dev/creators/22h/vintedois_diffusion/0_1_0/1.png",
+            "https://aica.pages.dev/creators/22h/vintedois_diffusion/0_1_0/2.png",
+            "https://aica.pages.dev/creators/22h/vintedois_diffusion/0_1_0/3.png",
+            "https://aica.pages.dev/creators/22h/vintedois_diffusion/0_1_0/4.png"
         ],
-        "info": "https://aica.pages.dev/creators/22h/vintedois_diffusion/010/info.txt",
+        "info": "https://aica.pages.dev/creators/22h/vintedois_diffusion/0_1_0/info.txt",
         "links": [
             "https://huggingface.co/ckpt/vintedois-diffusion-v0-1/resolve/main/vintedois_0_1.ckpt"
         ],
         "model_name": "vintedois_diffusion",
-        "model_version": "010",
+        "model_version": "0_1_0",
         "online": [
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/v1.9/vintedois_diffusion_0_1_webui_colab.ipynb"
         ],
@@ -150,17 +150,17 @@ all.json contains all of the data inside the files links.txt, tokens.txt, online
     {
         "creator_username": "852wa",
         "images": [
-            "https://aica.pages.dev/creators/852wa/8528_diffusion/100/1.png",
-            "https://aica.pages.dev/creators/852wa/8528_diffusion/100/2.png",
-            "https://aica.pages.dev/creators/852wa/8528_diffusion/100/3.png",
-            "https://aica.pages.dev/creators/852wa/8528_diffusion/100/4.png"
+            "https://aica.pages.dev/creators/852wa/8528_diffusion/1_0_0/1.png",
+            "https://aica.pages.dev/creators/852wa/8528_diffusion/1_0_0/2.png",
+            "https://aica.pages.dev/creators/852wa/8528_diffusion/1_0_0/3.png",
+            "https://aica.pages.dev/creators/852wa/8528_diffusion/1_0_0/4.png"
         ],
-        "info": "https://aica.pages.dev/creators/852wa/8528_diffusion/100/info.txt",
+        "info": "https://aica.pages.dev/creators/852wa/8528_diffusion/1_0_0/info.txt",
         "links": [
             "https://huggingface.co/ckpt/8528-diffusion/resolve/main/8528d-final.ckpt"
         ],
         "model_name": "8528_diffusion",
-        "model_version": "100",
+        "model_version": "1_0_0",
         "online": [
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/v1.9/8528_diffusion_webui_colab.ipynb"
         ],
