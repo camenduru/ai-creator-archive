@@ -114,7 +114,7 @@ Each line must contain one link.
 #### info.txt format
 
 ```
-With a file size of 10KB, do whatever you want. maybe example prompts.
+info.txt file will follow the markdown guide, with a file size of 10KB, do whatever you want. maybe example prompts.
 ```
 
 #### all.json
