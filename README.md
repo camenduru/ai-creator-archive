@@ -22,6 +22,7 @@ It is also useful for people who are interested in learning about the history an
 
 ## Contributing to the AI Creator Archive
 Just open an issue with your `username`, `model name`, `model version`, `model token(s)`, `model direct link` or `Google Drive link`, `4 images with PNG info`, and if you want, an `info.txt`
+And if you would like to contribute to the development of the webiste you could contribute to the [AICA](https://github.com/camenduru/aica) repository, after getting in touch with us over [Discord](https://discord.gg/pQQ5mkKJkJ).
 
 ## Image Formats
 Images should not contain any nudity. Remember how GitHub deleted the web UI without warning.
