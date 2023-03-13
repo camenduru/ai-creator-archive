@@ -79,7 +79,7 @@ Each line must contain one token.
 Online service links, such as Google Colab
 Each line must contain one link.
 
-├── https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/v1.9/stable_diffusion_webui_colab.ipynb
+├── https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/stable_diffusion_webui_colab.ipynb
 ```
 
 #### images.txt format
@@ -137,7 +137,7 @@ all.json contains all of the data inside the files links.txt, tokens.txt, online
         "model_name": "vintedois_diffusion",
         "model_version": "0_1_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/v1.9/vintedois_diffusion_0_1_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/vintedois_diffusion_0_1_webui_colab.ipynb"
         ],
         "tokens": [
             "estilovintedois"
@@ -162,7 +162,7 @@ all.json contains all of the data inside the files links.txt, tokens.txt, online
         "model_name": "8528_diffusion",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/v1.9/8528_diffusion_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/8528_diffusion_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [
