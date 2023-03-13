@@ -6,7 +6,7 @@
 ## JSON & Preview
 
 JSON: https://aica.pages.dev/all.json <br />
-Preview Grid: https://aica.vercel.app
+Preview Grid: https://aica.vercel.app <br />
 Preview Table: https://aica.pages.dev
 
 ## Motivation and Action
