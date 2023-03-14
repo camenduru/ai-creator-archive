@@ -48,6 +48,44 @@
         "vae": []
     },
     {
+        "creator_username": "agra_fl",
+        "images": [
+            "https://aica.pages.dev/creators/agra_fl/refslave/2_0_0/1.png",
+            "https://aica.pages.dev/creators/agra_fl/refslave/2_0_0/2.png",
+            "https://aica.pages.dev/creators/agra_fl/refslave/2_0_0/3.png",
+            "https://aica.pages.dev/creators/agra_fl/refslave/2_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/agra_fl/refslave/2_0_0/info.txt",
+        "links": [],
+        "model_name": "refslave",
+        "model_version": "2_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/refslave_v2_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
+        "creator_username": "aine_captain",
+        "images": [
+            "https://aica.pages.dev/creators/aine_captain/liberty/1_0_0/1.png",
+            "https://aica.pages.dev/creators/aine_captain/liberty/1_0_0/2.png",
+            "https://aica.pages.dev/creators/aine_captain/liberty/1_0_0/3.png",
+            "https://aica.pages.dev/creators/aine_captain/liberty/1_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/aine_captain/liberty/1_0_0/info.txt",
+        "links": [],
+        "model_name": "liberty",
+        "model_version": "1_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/liberty_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
         "creator_username": "aipicasso",
         "images": [
             "https://aica.pages.dev/creators/aipicasso/cool_japan_diffusion/2_1_0/1.png",
@@ -117,6 +155,25 @@
         "type": [
             "fine_tune"
         ],
+        "vae": []
+    },
+    {
+        "creator_username": "anashel",
+        "images": [
+            "https://aica.pages.dev/creators/anashel/rpg/4_0_0/1.png",
+            "https://aica.pages.dev/creators/anashel/rpg/4_0_0/2.png",
+            "https://aica.pages.dev/creators/anashel/rpg/4_0_0/3.png",
+            "https://aica.pages.dev/creators/anashel/rpg/4_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/anashel/rpg/4_0_0/info.txt",
+        "links": [],
+        "model_name": "rpg",
+        "model_version": "4_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/rpg_v4_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
         "vae": []
     },
     {
@@ -264,6 +321,25 @@
         "vae": []
     },
     {
+        "creator_username": "bloodsuga",
+        "images": [
+            "https://aica.pages.dev/creators/bloodsuga/perfect_world/2_0_0/1.png",
+            "https://aica.pages.dev/creators/bloodsuga/perfect_world/2_0_0/2.png",
+            "https://aica.pages.dev/creators/bloodsuga/perfect_world/2_0_0/3.png",
+            "https://aica.pages.dev/creators/bloodsuga/perfect_world/2_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/bloodsuga/perfect_world/2_0_0/info.txt",
+        "links": [],
+        "model_name": "perfect_world",
+        "model_version": "2_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/perfect_world_v2_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
         "creator_username": "cafeai",
         "images": [
             "https://aica.pages.dev/creators/cafeai/cafe_instagram_sd_1_5/6_0_0/1.png",
@@ -310,6 +386,25 @@
         "vae": []
     },
     {
+        "creator_username": "civitai",
+        "images": [
+            "https://aica.pages.dev/creators/civitai/chilloutmix/1_0_0/1.png",
+            "https://aica.pages.dev/creators/civitai/chilloutmix/1_0_0/2.png",
+            "https://aica.pages.dev/creators/civitai/chilloutmix/1_0_0/3.png",
+            "https://aica.pages.dev/creators/civitai/chilloutmix/1_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/civitai/chilloutmix/1_0_0/info.txt",
+        "links": [],
+        "model_name": "chilloutmix",
+        "model_version": "1_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/chillout_mix_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
         "creator_username": "claudfuen",
         "images": [
             "https://aica.pages.dev/creators/claudfuen/photorealistic_fuen/1_0_0/1.png",
@@ -330,6 +425,44 @@
         "type": [
             "fine_tune"
         ],
+        "vae": []
+    },
+    {
+        "creator_username": "closertodeath",
+        "images": [
+            "https://aica.pages.dev/creators/closertodeath/dpepmkmp/1_0_0/1.png",
+            "https://aica.pages.dev/creators/closertodeath/dpepmkmp/1_0_0/2.png",
+            "https://aica.pages.dev/creators/closertodeath/dpepmkmp/1_0_0/3.png",
+            "https://aica.pages.dev/creators/closertodeath/dpepmkmp/1_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/closertodeath/dpepmkmp/1_0_0/info.txt",
+        "links": [],
+        "model_name": "dpepmkmp",
+        "model_version": "1_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/dpepmkmp_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
+        "creator_username": "closertodeath",
+        "images": [
+            "https://aica.pages.dev/creators/closertodeath/mouseymix/1_0_0/1.png",
+            "https://aica.pages.dev/creators/closertodeath/mouseymix/1_0_0/2.png",
+            "https://aica.pages.dev/creators/closertodeath/mouseymix/1_0_0/3.png",
+            "https://aica.pages.dev/creators/closertodeath/mouseymix/1_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/closertodeath/mouseymix/1_0_0/info.txt",
+        "links": [],
+        "model_name": "mouseymix",
+        "model_version": "1_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/mousey_mix_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
         "vae": []
     },
     {
@@ -426,6 +559,63 @@
         "type": [
             "dreambooth"
         ],
+        "vae": []
+    },
+    {
+        "creator_username": "darkstorm2150",
+        "images": [
+            "https://aica.pages.dev/creators/darkstorm2150/protogen_nova/1_0_0/1.png",
+            "https://aica.pages.dev/creators/darkstorm2150/protogen_nova/1_0_0/2.png",
+            "https://aica.pages.dev/creators/darkstorm2150/protogen_nova/1_0_0/3.png",
+            "https://aica.pages.dev/creators/darkstorm2150/protogen_nova/1_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/darkstorm2150/protogen_nova/1_0_0/info.txt",
+        "links": [],
+        "model_name": "protogen_nova",
+        "model_version": "1_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/protogen_nova_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
+        "creator_username": "darkstorm2150",
+        "images": [
+            "https://aica.pages.dev/creators/darkstorm2150/protogen_x/3_4_0/1.png",
+            "https://aica.pages.dev/creators/darkstorm2150/protogen_x/3_4_0/2.png",
+            "https://aica.pages.dev/creators/darkstorm2150/protogen_x/3_4_0/3.png",
+            "https://aica.pages.dev/creators/darkstorm2150/protogen_x/3_4_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/darkstorm2150/protogen_x/3_4_0/info.txt",
+        "links": [],
+        "model_name": "protogen_x",
+        "model_version": "3_4_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/protogen_x3_4_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
+        "creator_username": "defpoint",
+        "images": [
+            "https://aica.pages.dev/creators/defpoint/defmix/2_0_0/1.png",
+            "https://aica.pages.dev/creators/defpoint/defmix/2_0_0/2.png",
+            "https://aica.pages.dev/creators/defpoint/defmix/2_0_0/3.png",
+            "https://aica.pages.dev/creators/defpoint/defmix/2_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/defpoint/defmix/2_0_0/info.txt",
+        "links": [],
+        "model_name": "defmix",
+        "model_version": "2_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/defmix_v2_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
         "vae": []
     },
     {
@@ -598,6 +788,25 @@
         "vae": []
     },
     {
+        "creator_username": "evgk_132410",
+        "images": [
+            "https://aica.pages.dev/creators/evgk_132410/realistic_vision/1_3_0/1.png",
+            "https://aica.pages.dev/creators/evgk_132410/realistic_vision/1_3_0/2.png",
+            "https://aica.pages.dev/creators/evgk_132410/realistic_vision/1_3_0/3.png",
+            "https://aica.pages.dev/creators/evgk_132410/realistic_vision/1_3_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/evgk_132410/realistic_vision/1_3_0/info.txt",
+        "links": [],
+        "model_name": "realistic_vision",
+        "model_version": "1_3_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/realistic_vision_v13_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
         "creator_username": "fiacr",
         "images": [
             "https://aica.pages.dev/creators/fiacr/comics_blend/1_0_0/1.png",
@@ -767,6 +976,25 @@
         "vae": []
     },
     {
+        "creator_username": "illuminati_ai",
+        "images": [
+            "https://aica.pages.dev/creators/illuminati_ai/illuminati/1_1_0/1.png",
+            "https://aica.pages.dev/creators/illuminati_ai/illuminati/1_1_0/2.png",
+            "https://aica.pages.dev/creators/illuminati_ai/illuminati/1_1_0/3.png",
+            "https://aica.pages.dev/creators/illuminati_ai/illuminati/1_1_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/illuminati_ai/illuminati/1_1_0/info.txt",
+        "links": [],
+        "model_name": "illuminati",
+        "model_version": "1_1_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/illuminati_v1_1_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
         "creator_username": "inzamam567",
         "images": [
             "https://aica.pages.dev/creators/inzamam567/any_gape/1_0_0/1.png",
@@ -813,6 +1041,25 @@
         "type": [
             "dreambooth"
         ],
+        "vae": []
+    },
+    {
+        "creator_username": "jawgboi",
+        "images": [
+            "https://aica.pages.dev/creators/jawgboi/padoru/1_0_0/1.png",
+            "https://aica.pages.dev/creators/jawgboi/padoru/1_0_0/2.png",
+            "https://aica.pages.dev/creators/jawgboi/padoru/1_0_0/3.png",
+            "https://aica.pages.dev/creators/jawgboi/padoru/1_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/jawgboi/padoru/1_0_0/info.txt",
+        "links": [],
+        "model_name": "padoru",
+        "model_version": "1_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/padoru_v1_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
         "vae": []
     },
     {
@@ -885,6 +1132,63 @@
         "vae": []
     },
     {
+        "creator_username": "junjuice0",
+        "images": [
+            "https://aica.pages.dev/creators/junjuice0/voxo/1_0_0/1.png",
+            "https://aica.pages.dev/creators/junjuice0/voxo/1_0_0/2.png",
+            "https://aica.pages.dev/creators/junjuice0/voxo/1_0_0/3.png",
+            "https://aica.pages.dev/creators/junjuice0/voxo/1_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/junjuice0/voxo/1_0_0/info.txt",
+        "links": [],
+        "model_name": "voxo",
+        "model_version": "1_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/voxo_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
+        "creator_username": "lucetepolis",
+        "images": [
+            "https://aica.pages.dev/creators/lucetepolis/mare_coloris/1_0_0/1.png",
+            "https://aica.pages.dev/creators/lucetepolis/mare_coloris/1_0_0/2.png",
+            "https://aica.pages.dev/creators/lucetepolis/mare_coloris/1_0_0/3.png",
+            "https://aica.pages.dev/creators/lucetepolis/mare_coloris/1_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/lucetepolis/mare_coloris/1_0_0/info.txt",
+        "links": [],
+        "model_name": "mare_coloris",
+        "model_version": "1_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/mare_coloris_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
+        "creator_username": "lykon",
+        "images": [
+            "https://aica.pages.dev/creators/lykon/neverending_dream/1_0_0/1.png",
+            "https://aica.pages.dev/creators/lykon/neverending_dream/1_0_0/2.png",
+            "https://aica.pages.dev/creators/lykon/neverending_dream/1_0_0/3.png",
+            "https://aica.pages.dev/creators/lykon/neverending_dream/1_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/lykon/neverending_dream/1_0_0/info.txt",
+        "links": [],
+        "model_name": "neverending_dream",
+        "model_version": "1_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/neverending_dream_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
         "creator_username": "mattgroy",
         "images": [
             "https://aica.pages.dev/creators/mattgroy/dream_like_sam_kuvshinov/2_0_0/1.png",
@@ -928,6 +1232,44 @@
         "type": [
             "fine_tune"
         ],
+        "vae": []
+    },
+    {
+        "creator_username": "mekabu",
+        "images": [
+            "https://aica.pages.dev/creators/mekabu/magical_mix/1_0_0/1.png",
+            "https://aica.pages.dev/creators/mekabu/magical_mix/1_0_0/2.png",
+            "https://aica.pages.dev/creators/mekabu/magical_mix/1_0_0/3.png",
+            "https://aica.pages.dev/creators/mekabu/magical_mix/1_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/mekabu/magical_mix/1_0_0/info.txt",
+        "links": [],
+        "model_name": "magical_mix",
+        "model_version": "1_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/magical_mix_v1_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
+        "creator_username": "mocker",
+        "images": [
+            "https://aica.pages.dev/creators/mocker/color_bomb_mix/1_0_0/1.png",
+            "https://aica.pages.dev/creators/mocker/color_bomb_mix/1_0_0/2.png",
+            "https://aica.pages.dev/creators/mocker/color_bomb_mix/1_0_0/3.png",
+            "https://aica.pages.dev/creators/mocker/color_bomb_mix/1_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/mocker/color_bomb_mix/1_0_0/info.txt",
+        "links": [],
+        "model_name": "color_bomb_mix",
+        "model_version": "1_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/color_bomb_mix_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
         "vae": []
     },
     {
@@ -1060,6 +1402,25 @@
         "vae": []
     },
     {
+        "creator_username": "p1atdev",
+        "images": [
+            "https://aica.pages.dev/creators/p1atdev/pvc/3_0_0/1.png",
+            "https://aica.pages.dev/creators/p1atdev/pvc/3_0_0/2.png",
+            "https://aica.pages.dev/creators/p1atdev/pvc/3_0_0/3.png",
+            "https://aica.pages.dev/creators/p1atdev/pvc/3_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/p1atdev/pvc/3_0_0/info.txt",
+        "links": [],
+        "model_name": "pvc",
+        "model_version": "3_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/pvc_v3_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
         "creator_username": "plasmo",
         "images": [
             "https://aica.pages.dev/creators/plasmo/food_crit/1_0_0/1.png",
@@ -1107,6 +1468,25 @@
         "type": [
             "dreambooth"
         ],
+        "vae": []
+    },
+    {
+        "creator_username": "pmejna",
+        "images": [
+            "https://aica.pages.dev/creators/pmejna/graphic_art/1_0_0/1.png",
+            "https://aica.pages.dev/creators/pmejna/graphic_art/1_0_0/2.png",
+            "https://aica.pages.dev/creators/pmejna/graphic_art/1_0_0/3.png",
+            "https://aica.pages.dev/creators/pmejna/graphic_art/1_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/pmejna/graphic_art/1_0_0/info.txt",
+        "links": [],
+        "model_name": "graphic_art",
+        "model_version": "1_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/graphic_art_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
         "vae": []
     },
     {
@@ -1181,6 +1561,25 @@
         "type": [
             "dreambooth"
         ],
+        "vae": []
+    },
+    {
+        "creator_username": "ratkovm8640",
+        "images": [
+            "https://aica.pages.dev/creators/ratkovm8640/dream_like_sam_kuvshino/1_0_0/1.png",
+            "https://aica.pages.dev/creators/ratkovm8640/dream_like_sam_kuvshino/1_0_0/2.png",
+            "https://aica.pages.dev/creators/ratkovm8640/dream_like_sam_kuvshino/1_0_0/3.png",
+            "https://aica.pages.dev/creators/ratkovm8640/dream_like_sam_kuvshino/1_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/ratkovm8640/dream_like_sam_kuvshino/1_0_0/info.txt",
+        "links": [],
+        "model_name": "dream_like_sam_kuvshino",
+        "model_version": "1_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/dream_like_sam_kuvshino_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
         "vae": []
     },
     {
@@ -1326,6 +1725,25 @@
         "vae": []
     },
     {
+        "creator_username": "shatalin_art",
+        "images": [
+            "https://aica.pages.dev/creators/shatalin_art/alfamix/1_0_0/1.png",
+            "https://aica.pages.dev/creators/shatalin_art/alfamix/1_0_0/2.png",
+            "https://aica.pages.dev/creators/shatalin_art/alfamix/1_0_0/3.png",
+            "https://aica.pages.dev/creators/shatalin_art/alfamix/1_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/shatalin_art/alfamix/1_0_0/info.txt",
+        "links": [],
+        "model_name": "alfamix",
+        "model_version": "1_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/alfamix_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
         "creator_username": "stabilityai",
         "images": [
             "https://aica.pages.dev/creators/stabilityai/stable_diffusion/2_0_0/1.png",
@@ -1461,6 +1879,44 @@
         "type": [
             "fine_tune"
         ],
+        "vae": []
+    },
+    {
+        "creator_username": "stablydiffused",
+        "images": [
+            "https://aica.pages.dev/creators/stablydiffused/stablydiffuseds_aesthetic_mix/1_0_0/1.png",
+            "https://aica.pages.dev/creators/stablydiffused/stablydiffuseds_aesthetic_mix/1_0_0/2.png",
+            "https://aica.pages.dev/creators/stablydiffused/stablydiffuseds_aesthetic_mix/1_0_0/3.png",
+            "https://aica.pages.dev/creators/stablydiffused/stablydiffuseds_aesthetic_mix/1_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/stablydiffused/stablydiffuseds_aesthetic_mix/1_0_0/info.txt",
+        "links": [],
+        "model_name": "stablydiffuseds_aesthetic_mix",
+        "model_version": "1_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/stablydiffuseds_aesthetic_mix_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
+        "creator_username": "syaimu",
+        "images": [
+            "https://aica.pages.dev/creators/syaimu/7th_layer/1_0_0/1.png",
+            "https://aica.pages.dev/creators/syaimu/7th_layer/1_0_0/2.png",
+            "https://aica.pages.dev/creators/syaimu/7th_layer/1_0_0/3.png",
+            "https://aica.pages.dev/creators/syaimu/7th_layer/1_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/syaimu/7th_layer/1_0_0/info.txt",
+        "links": [],
+        "model_name": "7th_layer",
+        "model_version": "1_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/7th_layer_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
         "vae": []
     },
     {
@@ -1671,6 +2127,63 @@
         "vae": []
     },
     {
+        "creator_username": "vsukiyaki",
+        "images": [
+            "https://aica.pages.dev/creators/vsukiyaki/sukiyaki_mix/1_0_0/1.png",
+            "https://aica.pages.dev/creators/vsukiyaki/sukiyaki_mix/1_0_0/2.png",
+            "https://aica.pages.dev/creators/vsukiyaki/sukiyaki_mix/1_0_0/3.png",
+            "https://aica.pages.dev/creators/vsukiyaki/sukiyaki_mix/1_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/vsukiyaki/sukiyaki_mix/1_0_0/info.txt",
+        "links": [],
+        "model_name": "sukiyaki_mix",
+        "model_version": "1_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/sukiyaki_mix_v1_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
+        "creator_username": "waifu_diffusion",
+        "images": [
+            "https://aica.pages.dev/creators/waifu_diffusion/waifu_diffusion/1_5_0/1.png",
+            "https://aica.pages.dev/creators/waifu_diffusion/waifu_diffusion/1_5_0/2.png",
+            "https://aica.pages.dev/creators/waifu_diffusion/waifu_diffusion/1_5_0/3.png",
+            "https://aica.pages.dev/creators/waifu_diffusion/waifu_diffusion/1_5_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/waifu_diffusion/waifu_diffusion/1_5_0/info.txt",
+        "links": [],
+        "model_name": "waifu_diffusion",
+        "model_version": "1_5_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/waifu_diffusion_v1_5_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
+        "creator_username": "waifu_diffusion",
+        "images": [
+            "https://aica.pages.dev/creators/waifu_diffusion/waifu_diffusion/1_5_2/1.png",
+            "https://aica.pages.dev/creators/waifu_diffusion/waifu_diffusion/1_5_2/2.png",
+            "https://aica.pages.dev/creators/waifu_diffusion/waifu_diffusion/1_5_2/3.png",
+            "https://aica.pages.dev/creators/waifu_diffusion/waifu_diffusion/1_5_2/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/waifu_diffusion/waifu_diffusion/1_5_2/info.txt",
+        "links": [],
+        "model_name": "waifu_diffusion",
+        "model_version": "1_5_2",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/waifu_diffusion_v1_5_b2_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
         "creator_username": "warrior_mama777",
         "images": [
             "https://aica.pages.dev/creators/warrior_mama777/orange_mixs/1_0_0/1.png",
@@ -1696,6 +2209,44 @@
         "vae": []
     },
     {
+        "creator_username": "warrior_mama777",
+        "images": [
+            "https://aica.pages.dev/creators/warrior_mama777/orange_mixs/2_0_0/1.png",
+            "https://aica.pages.dev/creators/warrior_mama777/orange_mixs/2_0_0/2.png",
+            "https://aica.pages.dev/creators/warrior_mama777/orange_mixs/2_0_0/3.png",
+            "https://aica.pages.dev/creators/warrior_mama777/orange_mixs/2_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/warrior_mama777/orange_mixs/2_0_0/info.txt",
+        "links": [],
+        "model_name": "orange_mixs",
+        "model_version": "2_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/abyss_orange_mix_2_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
+        "creator_username": "warrior_mama777",
+        "images": [
+            "https://aica.pages.dev/creators/warrior_mama777/orange_mixs/3_0_0/1.png",
+            "https://aica.pages.dev/creators/warrior_mama777/orange_mixs/3_0_0/2.png",
+            "https://aica.pages.dev/creators/warrior_mama777/orange_mixs/3_0_0/3.png",
+            "https://aica.pages.dev/creators/warrior_mama777/orange_mixs/3_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/warrior_mama777/orange_mixs/3_0_0/info.txt",
+        "links": [],
+        "model_name": "orange_mixs",
+        "model_version": "3_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/abyss_orange_mix_3_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
         "creator_username": "wavymulder",
         "images": [
             "https://aica.pages.dev/creators/wavymulder/analog_diffusion/1_0_0/1.png",
@@ -1718,6 +2269,44 @@
         "type": [
             "dreambooth"
         ],
+        "vae": []
+    },
+    {
+        "creator_username": "xpuc_t",
+        "images": [
+            "https://aica.pages.dev/creators/xpuc_t/deliberate/1_0_0/1.png",
+            "https://aica.pages.dev/creators/xpuc_t/deliberate/1_0_0/2.png",
+            "https://aica.pages.dev/creators/xpuc_t/deliberate/1_0_0/3.png",
+            "https://aica.pages.dev/creators/xpuc_t/deliberate/1_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/xpuc_t/deliberate/1_0_0/info.txt",
+        "links": [],
+        "model_name": "deliberate",
+        "model_version": "1_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/deliberate_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
+        "vae": []
+    },
+    {
+        "creator_username": "xxlmaes",
+        "images": [
+            "https://aica.pages.dev/creators/xxlmaes/vinte_protogen_mix/1_0_0/1.png",
+            "https://aica.pages.dev/creators/xxlmaes/vinte_protogen_mix/1_0_0/2.png",
+            "https://aica.pages.dev/creators/xxlmaes/vinte_protogen_mix/1_0_0/3.png",
+            "https://aica.pages.dev/creators/xxlmaes/vinte_protogen_mix/1_0_0/4.png"
+        ],
+        "info": "https://aica.pages.dev/creators/xxlmaes/vinte_protogen_mix/1_0_0/info.txt",
+        "links": [],
+        "model_name": "vinte_protogen_mix",
+        "model_version": "1_0_0",
+        "online": [
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/vinte_protogen_mix_v_1_0_webui_colab.ipynb"
+        ],
+        "tokens": [],
+        "type": [],
         "vae": []
     }
 ]
