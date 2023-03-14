@@ -1,0 +1,1 @@
+https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/color_bomb_mix_webui_colab.ipynb

@@ -1,0 +1,1 @@
+https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/mare_coloris_webui_colab.ipynb

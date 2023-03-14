@@ -1,0 +1,1 @@
+https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/realistic_vision_v13_webui_colab.ipynb
