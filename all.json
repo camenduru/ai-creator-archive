@@ -56,7 +56,9 @@
             "https://aica.pages.dev/creators/agra_fl/refslave/2_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/agra_fl/refslave/2_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "refslave",
         "model_version": "2_0_0",
         "online": [
@@ -75,7 +77,9 @@
             "https://aica.pages.dev/creators/aine_captain/liberty/1_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/aine_captain/liberty/1_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "liberty",
         "model_version": "1_0_0",
         "online": [
@@ -166,7 +170,9 @@
             "https://aica.pages.dev/creators/anashel/rpg/4_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/anashel/rpg/4_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "rpg",
         "model_version": "4_0_0",
         "online": [
@@ -329,7 +335,9 @@
             "https://aica.pages.dev/creators/bloodsuga/perfect_world/2_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/bloodsuga/perfect_world/2_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "perfect_world",
         "model_version": "2_0_0",
         "online": [
@@ -394,7 +402,9 @@
             "https://aica.pages.dev/creators/civitai/chilloutmix/1_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/civitai/chilloutmix/1_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "chilloutmix",
         "model_version": "1_0_0",
         "online": [
@@ -436,7 +446,9 @@
             "https://aica.pages.dev/creators/closertodeath/dpepmkmp/1_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/closertodeath/dpepmkmp/1_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "dpepmkmp",
         "model_version": "1_0_0",
         "online": [
@@ -455,7 +467,9 @@
             "https://aica.pages.dev/creators/closertodeath/mouseymix/1_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/closertodeath/mouseymix/1_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "mouseymix",
         "model_version": "1_0_0",
         "online": [
@@ -570,7 +584,9 @@
             "https://aica.pages.dev/creators/darkstorm2150/protogen_nova/1_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/darkstorm2150/protogen_nova/1_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "protogen_nova",
         "model_version": "1_0_0",
         "online": [
@@ -589,7 +605,9 @@
             "https://aica.pages.dev/creators/darkstorm2150/protogen_x/3_4_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/darkstorm2150/protogen_x/3_4_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "protogen_x",
         "model_version": "3_4_0",
         "online": [
@@ -608,7 +626,9 @@
             "https://aica.pages.dev/creators/defpoint/defmix/2_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/defpoint/defmix/2_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "defmix",
         "model_version": "2_0_0",
         "online": [
@@ -796,7 +816,9 @@
             "https://aica.pages.dev/creators/evgk_132410/realistic_vision/1_3_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/evgk_132410/realistic_vision/1_3_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "realistic_vision",
         "model_version": "1_3_0",
         "online": [
@@ -984,7 +1006,9 @@
             "https://aica.pages.dev/creators/illuminati_ai/illuminati/1_1_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/illuminati_ai/illuminati/1_1_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "illuminati",
         "model_version": "1_1_0",
         "online": [
@@ -1052,7 +1076,9 @@
             "https://aica.pages.dev/creators/jawgboi/padoru/1_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/jawgboi/padoru/1_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "padoru",
         "model_version": "1_0_0",
         "online": [
@@ -1140,7 +1166,9 @@
             "https://aica.pages.dev/creators/junjuice0/voxo/1_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/junjuice0/voxo/1_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "voxo",
         "model_version": "1_0_0",
         "online": [
@@ -1159,7 +1187,9 @@
             "https://aica.pages.dev/creators/lucetepolis/mare_coloris/1_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/lucetepolis/mare_coloris/1_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "mare_coloris",
         "model_version": "1_0_0",
         "online": [
@@ -1178,7 +1208,9 @@
             "https://aica.pages.dev/creators/lykon/neverending_dream/1_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/lykon/neverending_dream/1_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "neverending_dream",
         "model_version": "1_0_0",
         "online": [
@@ -1243,7 +1275,9 @@
             "https://aica.pages.dev/creators/mekabu/magical_mix/1_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/mekabu/magical_mix/1_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "magical_mix",
         "model_version": "1_0_0",
         "online": [
@@ -1262,7 +1296,9 @@
             "https://aica.pages.dev/creators/mocker/color_bomb_mix/1_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/mocker/color_bomb_mix/1_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "color_bomb_mix",
         "model_version": "1_0_0",
         "online": [
@@ -1410,7 +1446,9 @@
             "https://aica.pages.dev/creators/p1atdev/pvc/3_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/p1atdev/pvc/3_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "pvc",
         "model_version": "3_0_0",
         "online": [
@@ -1479,7 +1517,9 @@
             "https://aica.pages.dev/creators/pmejna/graphic_art/1_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/pmejna/graphic_art/1_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "graphic_art",
         "model_version": "1_0_0",
         "online": [
@@ -1572,7 +1612,9 @@
             "https://aica.pages.dev/creators/ratkovm8640/dream_like_sam_kuvshino/1_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/ratkovm8640/dream_like_sam_kuvshino/1_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "dream_like_sam_kuvshino",
         "model_version": "1_0_0",
         "online": [
@@ -1733,7 +1775,9 @@
             "https://aica.pages.dev/creators/shatalin_art/alfamix/1_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/shatalin_art/alfamix/1_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "alfamix",
         "model_version": "1_0_0",
         "online": [
@@ -1890,7 +1934,9 @@
             "https://aica.pages.dev/creators/stablydiffused/stablydiffuseds_aesthetic_mix/1_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/stablydiffused/stablydiffuseds_aesthetic_mix/1_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "stablydiffuseds_aesthetic_mix",
         "model_version": "1_0_0",
         "online": [
@@ -1909,7 +1955,9 @@
             "https://aica.pages.dev/creators/syaimu/7th_layer/1_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/syaimu/7th_layer/1_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "7th_layer",
         "model_version": "1_0_0",
         "online": [
@@ -2135,7 +2183,9 @@
             "https://aica.pages.dev/creators/vsukiyaki/sukiyaki_mix/1_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/vsukiyaki/sukiyaki_mix/1_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "sukiyaki_mix",
         "model_version": "1_0_0",
         "online": [
@@ -2154,7 +2204,9 @@
             "https://aica.pages.dev/creators/waifu_diffusion/waifu_diffusion/1_5_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/waifu_diffusion/waifu_diffusion/1_5_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "waifu_diffusion",
         "model_version": "1_5_0",
         "online": [
@@ -2173,7 +2225,9 @@
             "https://aica.pages.dev/creators/waifu_diffusion/waifu_diffusion/1_5_2/4.png"
         ],
         "info": "https://aica.pages.dev/creators/waifu_diffusion/waifu_diffusion/1_5_2/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "waifu_diffusion",
         "model_version": "1_5_2",
         "online": [
@@ -2217,7 +2271,9 @@
             "https://aica.pages.dev/creators/warrior_mama777/orange_mixs/2_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/warrior_mama777/orange_mixs/2_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "orange_mixs",
         "model_version": "2_0_0",
         "online": [
@@ -2236,7 +2292,9 @@
             "https://aica.pages.dev/creators/warrior_mama777/orange_mixs/3_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/warrior_mama777/orange_mixs/3_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "orange_mixs",
         "model_version": "3_0_0",
         "online": [
@@ -2280,7 +2338,9 @@
             "https://aica.pages.dev/creators/xpuc_t/deliberate/1_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/xpuc_t/deliberate/1_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "deliberate",
         "model_version": "1_0_0",
         "online": [
@@ -2299,7 +2359,9 @@
             "https://aica.pages.dev/creators/xxlmaes/vinte_protogen_mix/1_0_0/4.png"
         ],
         "info": "https://aica.pages.dev/creators/xxlmaes/vinte_protogen_mix/1_0_0/info.txt",
-        "links": [],
+        "links": [
+            "https://aica.pages.dev"
+        ],
         "model_name": "vinte_protogen_mix",
         "model_version": "1_0_0",
         "online": [
