@@ -109,14 +109,6 @@ colab.textContent = 'colab';
 divInside.appendChild(colabSpan);
 divInside.appendChild(colab);
 
-const sTwitter = document.createElement('a');
-const sTwitterSpan = document.createElement('span');
-sTwitterSpan.textContent = ' ' + String.fromCodePoint(128054) + ' ';
-sTwitter.href = "https://twitter.com/safetensors";
-sTwitter.textContent = '@safetensors';
-divInside.appendChild(sTwitterSpan);
-divInside.appendChild(sTwitter);
-
 const cTwitter = document.createElement('a');
 const cTwitterSpan = document.createElement('span');
 cTwitterSpan.textContent = ' ' + String.fromCodePoint(128035) + ' ';
