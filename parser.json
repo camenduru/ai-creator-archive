@@ -1,0 +1,1272 @@
+{
+    "0": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/stable_diffusion_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/stable_diffusion_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/stable_diffusion_webui_colab.ipynb",
+        "name": "stable_diffusion_webui_colab",
+        "token": "",
+        "page": "CompVis/stable-diffusion-v-1-4-original",
+        "url": "https://huggingface.co/CompVis/stable-diffusion-v-1-4-original",
+        "thanks": ""
+    },
+    "1": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/waifu_diffusion_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/waifu_diffusion_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/waifu_diffusion_webui_colab.ipynb",
+        "name": "waifu_diffusion_webui_colab",
+        "token": "",
+        "page": "hakurei/waifu-diffusion-v1-3",
+        "url": "https://huggingface.co/hakurei/waifu-diffusion-v1-3",
+        "thanks": ""
+    },
+    "2": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/stable_diffusion_inpainting_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/stable_diffusion_inpainting_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/stable_diffusion_inpainting_webui_colab.ipynb",
+        "name": "stable_diffusion_inpainting_webui_colab",
+        "token": "",
+        "page": "runwayml/stable-diffusion-inpainting",
+        "url": "https://huggingface.co/runwayml/stable-diffusion-inpainting",
+        "thanks": ""
+    },
+    "3": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/stable_diffusion_1_5_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/stable_diffusion_1_5_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/stable_diffusion_1_5_webui_colab.ipynb",
+        "name": "stable_diffusion_1_5_webui_colab",
+        "token": "",
+        "page": "runwayml/stable-diffusion-v1-5",
+        "url": "https://huggingface.co/runwayml/stable-diffusion-v1-5",
+        "thanks": ""
+    },
+    "4": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/mo_di_diffusion_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/mo_di_diffusion_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/mo_di_diffusion_webui_colab.ipynb",
+        "name": "mo_di_diffusion_webui_colab",
+        "token": "(Use the tokens `modern disney style` in your prompts for the effect.)",
+        "page": "nitrosocke/mo-di-diffusion",
+        "url": "https://huggingface.co/nitrosocke/mo-di-diffusion",
+        "thanks": ""
+    },
+    "5": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/arcane_diffusion_3_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/arcane_diffusion_3_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/arcane_diffusion_3_webui_colab.ipynb",
+        "name": "arcane_diffusion_3_webui_colab",
+        "token": "(Use the tokens `arcane style` in your prompts for the effect.)",
+        "page": "nitrosocke/Arcane-Diffusion",
+        "url": "https://huggingface.co/nitrosocke/Arcane-Diffusion",
+        "thanks": ""
+    },
+    "6": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/cyberpunk_anime_diffusion_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/cyberpunk_anime_diffusion_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/cyberpunk_anime_diffusion_webui_colab.ipynb",
+        "name": "cyberpunk_anime_diffusion_webui_colab",
+        "token": "(Use the tokens `dgs illustration style` in your prompts for the effect.)",
+        "page": "DGSpitzer/Cyberpunk-Anime-Diffusion",
+        "url": "https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion",
+        "thanks": ""
+    },
+    "7": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/midjourney_v4_diffusion_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/midjourney_v4_diffusion_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/midjourney_v4_diffusion_webui_colab.ipynb",
+        "name": "midjourney_v4_diffusion_webui_colab",
+        "token": "(Use the tokens `mdjrny-v4 style` in your prompts for the effect.)",
+        "page": "prompthero/midjourney-v4-diffusion",
+        "url": "https://huggingface.co/prompthero/midjourney-v4-diffusion",
+        "thanks": ""
+    },
+    "8": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/papercut_diffusion_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/papercut_diffusion_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/papercut_diffusion_webui_colab.ipynb",
+        "name": "papercut_diffusion_webui_colab",
+        "token": "(Use the tokens `PaperCut` in your prompts for the effect.)",
+        "page": "Fictiverse/Stable_Diffusion_PaperCut_Model",
+        "url": "https://huggingface.co/Fictiverse/Stable_Diffusion_PaperCut_Model",
+        "thanks": ""
+    },
+    "9": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/samdoesart_diffusion_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/samdoesart_diffusion_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/samdoesart_diffusion_webui_colab.ipynb",
+        "name": "samdoesart_diffusion_webui_colab",
+        "token": "(Use the tokens `SamDoesArt` in your prompts for the effect.)",
+        "page": "Sandro-Halpo/SamDoesArt-V3",
+        "url": "https://huggingface.co/Sandro-Halpo/SamDoesArt-V3",
+        "thanks": ""
+    },
+    "10": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/anything_3_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/anything_3_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/anything_3_webui_colab.ipynb",
+        "name": "anything_3_webui_colab",
+        "token": "",
+        "page": "ckpt/anything-v3.0",
+        "url": "https://huggingface.co/ckpt/anything-v3.0",
+        "thanks": ""
+    },
+    "11": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/woolitize_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/woolitize_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/woolitize_webui_colab.ipynb",
+        "name": "woolitize_webui_colab",
+        "token": "(Use the tokens `woolitize style` in your prompts for the effect.)",
+        "page": "plasmo/woolitize",
+        "url": "https://huggingface.co/plasmo/woolitize",
+        "thanks": ""
+    },
+    "12": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/inkpunk_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/inkpunk_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/inkpunk_webui_colab.ipynb",
+        "name": "inkpunk_webui_colab",
+        "token": "(Use the tokens `nvinkpunk style` in your prompts for the effect.)",
+        "page": "Envvi/Inkpunk-Diffusion",
+        "url": "https://huggingface.co/Envvi/Inkpunk-Diffusion",
+        "thanks": ""
+    },
+    "13": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/rando_mix_3_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/rando_mix_3_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/rando_mix_3_webui_colab.ipynb",
+        "name": "rando_mix_3_webui_colab",
+        "token": "",
+        "page": "sentet1c/RandoMix3",
+        "url": "https://huggingface.co/sentet1c/RandoMix3",
+        "thanks": "Thanks to Sint for the suggestion \u2764"
+    },
+    "14": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/f222_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/f222_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/f222_webui_colab.ipynb",
+        "name": "f222_webui_colab",
+        "token": "",
+        "page": "lilpotat/f2",
+        "url": "https://huggingface.co/lilpotat/f2",
+        "thanks": ""
+    },
+    "15": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/berry_mix_1_5_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/berry_mix_1_5_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/berry_mix_1_5_webui_colab.ipynb",
+        "name": "berry_mix_1_5_webui_colab",
+        "token": "",
+        "page": "lilpotat/rbm",
+        "url": "https://huggingface.co/lilpotat/rbm",
+        "thanks": ""
+    },
+    "16": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/stable_diffusion_v2_1_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/stable_diffusion_v2_1_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/stable_diffusion_v2_1_webui_colab.ipynb",
+        "name": "stable_diffusion_v2_1_webui_colab",
+        "token": "",
+        "page": "stabilityai/stable-diffusion-2-1",
+        "url": "https://huggingface.co/stabilityai/stable-diffusion-2-1",
+        "thanks": ""
+    },
+    "17": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/stable_diffusion_v2_1_base_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/stable_diffusion_v2_1_base_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/stable_diffusion_v2_1_base_webui_colab.ipynb",
+        "name": "stable_diffusion_v2_1_base_webui_colab",
+        "token": "",
+        "page": "stabilityai/stable-diffusion-2-1-base",
+        "url": "https://huggingface.co/stabilityai/stable-diffusion-2-1-base",
+        "thanks": ""
+    },
+    "18": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/stable_diffusion_v2_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/stable_diffusion_v2_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/stable_diffusion_v2_webui_colab.ipynb",
+        "name": "stable_diffusion_v2_webui_colab",
+        "token": "",
+        "page": "stabilityai/stable-diffusion-2",
+        "url": "https://huggingface.co/stabilityai/stable-diffusion-2",
+        "thanks": ""
+    },
+    "19": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/stable_diffusion_v2_base_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/stable_diffusion_v2_base_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/stable_diffusion_v2_base_webui_colab.ipynb",
+        "name": "stable_diffusion_v2_base_webui_colab",
+        "token": "",
+        "page": "stabilityai/stable-diffusion-2-base",
+        "url": "https://huggingface.co/stabilityai/stable-diffusion-2-base",
+        "thanks": ""
+    },
+    "20": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/stable_diffusion_v2_depth_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/stable_diffusion_v2_depth_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/stable_diffusion_v2_depth_webui_colab.ipynb",
+        "name": "stable_diffusion_v2_depth_webui_colab",
+        "token": "",
+        "page": "stabilityai/stable-diffusion-2-depth",
+        "url": "https://huggingface.co/stabilityai/stable-diffusion-2-depth",
+        "thanks": ""
+    },
+    "21": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/stable_diffusion_v2_inpainting_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/stable_diffusion_v2_inpainting_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/stable_diffusion_v2_inpainting_webui_colab.ipynb",
+        "name": "stable_diffusion_v2_inpainting_webui_colab",
+        "token": "",
+        "page": "stabilityai/stable-diffusion-2-inpainting",
+        "url": "https://huggingface.co/stabilityai/stable-diffusion-2-inpainting",
+        "thanks": ""
+    },
+    "22": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/hassan_blend_1_4_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/hassan_blend_1_4_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/hassan_blend_1_4_webui_colab.ipynb",
+        "name": "hassan_blend_1_4_webui_colab",
+        "token": "",
+        "page": "hassanblend/hassanblend1.4",
+        "url": "https://huggingface.co/hassanblend/hassanblend1.4",
+        "thanks": "Thanks to maximaljahn for the suggestion \u2764"
+    },
+    "23": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/yiffy_e18_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/yiffy_e18_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/yiffy_e18_webui_colab.ipynb",
+        "name": "yiffy_e18_webui_colab",
+        "token": "",
+        "page": "Doubleyobro/yiffy-e18",
+        "url": "https://huggingface.co/Doubleyobro/yiffy-e18",
+        "thanks": ""
+    },
+    "24": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/pony_diffusion_2_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/pony_diffusion_2_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/pony_diffusion_2_webui_colab.ipynb",
+        "name": "pony_diffusion_2_webui_colab",
+        "token": "",
+        "page": "AstraliteHeart/pony-diffusion-v2",
+        "url": "https://huggingface.co/AstraliteHeart/pony-diffusion-v2",
+        "thanks": ""
+    },
+    "25": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/elysium_anime_2_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/elysium_anime_2_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/elysium_anime_2_webui_colab.ipynb",
+        "name": "elysium_anime_2_webui_colab",
+        "token": "",
+        "page": "hesw23168/SD-Elysium-Model",
+        "url": "https://huggingface.co/hesw23168/SD-Elysium-Model",
+        "thanks": ""
+    },
+    "26": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/eimis_anime_diffusion_1_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/eimis_anime_diffusion_1_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/eimis_anime_diffusion_1_webui_colab.ipynb",
+        "name": "eimis_anime_diffusion_1_webui_colab",
+        "token": "",
+        "page": "eimiss/EimisAnimeDiffusion_1.0v",
+        "url": "https://huggingface.co/eimiss/EimisAnimeDiffusion_1.0v",
+        "thanks": "Thanks to Tjbr0ss2 for the suggestion \u2764"
+    },
+    "27": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/dreamlike_diffusion_1_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/dreamlike_diffusion_1_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/dreamlike_diffusion_1_webui_colab.ipynb",
+        "name": "dreamlike_diffusion_1_webui_colab",
+        "token": "(Use the tokens `dreamlikeart style` in your prompts for the effect.)",
+        "page": "dreamlike-art/dreamlike-diffusion-1.0",
+        "url": "https://huggingface.co/dreamlike-art/dreamlike-diffusion-1.0",
+        "thanks": ""
+    },
+    "28": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/van_gogh_diffusion_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/van_gogh_diffusion_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/van_gogh_diffusion_webui_colab.ipynb",
+        "name": "van_gogh_diffusion_webui_colab",
+        "token": "(Use the tokens `lvngvncnt style` in your prompts for the effect.)",
+        "page": "dallinmackay/Van-Gogh-diffusion",
+        "url": "https://huggingface.co/dallinmackay/Van-Gogh-diffusion",
+        "thanks": ""
+    },
+    "29": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/analog_diffusion_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/analog_diffusion_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/analog_diffusion_webui_colab.ipynb",
+        "name": "analog_diffusion_webui_colab",
+        "token": "(Use the tokens `analog style` in your prompts for the effect.)",
+        "page": "wavymulder/Analog-Diffusion",
+        "url": "https://huggingface.co/wavymulder/Analog-Diffusion",
+        "thanks": ""
+    },
+    "30": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/monstermash_any_3_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/monstermash_any_3_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/monstermash_any_3_webui_colab.ipynb",
+        "name": "monstermash_any_3_webui_colab",
+        "token": "",
+        "page": "N75242/monstermash_anyv3",
+        "url": "https://huggingface.co/N75242/monstermash_anyv3",
+        "thanks": ""
+    },
+    "31": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/yohan_diffusion_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/yohan_diffusion_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/yohan_diffusion_webui_colab.ipynb",
+        "name": "yohan_diffusion_webui_colab",
+        "token": "",
+        "page": "andite/yohan-diffusion",
+        "url": "https://huggingface.co/andite/yohan-diffusion",
+        "thanks": "Thanks to EBIX_benis for the suggestion \u2764"
+    },
+    "32": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/openjourney_v2_diffusion_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/openjourney_v2_diffusion_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/openjourney_v2_diffusion_webui_colab.ipynb",
+        "name": "openjourney_v2_diffusion_webui_colab",
+        "token": "",
+        "page": "prompthero/openjourney-v2",
+        "url": "https://huggingface.co/prompthero/openjourney-v2",
+        "thanks": ""
+    },
+    "33": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/vintedois_diffusion_0_1_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/vintedois_diffusion_0_1_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/vintedois_diffusion_0_1_webui_colab.ipynb",
+        "name": "vintedois_diffusion_0_1_webui_colab",
+        "token": "(Use the tokens `estilovintedois` in your prompts for the effect.)",
+        "page": "22h/vintedois-diffusion-v0-1",
+        "url": "https://huggingface.co/22h/vintedois-diffusion-v0-1",
+        "thanks": ""
+    },
+    "34": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/knollingcase_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/knollingcase_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/knollingcase_webui_colab.ipynb",
+        "name": "knollingcase_webui_colab",
+        "token": "(Use the tokens `knollingcase` in your prompts for the effect.)",
+        "page": "Aybeeceedee/knollingcase",
+        "url": "https://huggingface.co/Aybeeceedee/knollingcase",
+        "thanks": ""
+    },
+    "35": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/comic_diffusion_v2_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/comic_diffusion_v2_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/comic_diffusion_v2_webui_colab.ipynb",
+        "name": "comic_diffusion_v2_webui_colab",
+        "token": "(Use the tokens `charliebo artstyle` `holliemengert artstyle`",
+        "page": "ogkalu/Comic-Diffusion",
+        "url": "https://huggingface.co/ogkalu/Comic-Diffusion",
+        "thanks": ""
+    },
+    "36": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/complex_lineart_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/complex_lineart_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/complex_lineart_webui_colab.ipynb",
+        "name": "complex_lineart_webui_colab",
+        "token": "(Use the tokens `ComplexLA style` in your prompts for the effect.)",
+        "page": "Conflictx/Complex-Lineart",
+        "url": "https://huggingface.co/Conflictx/Complex-Lineart",
+        "thanks": ""
+    },
+    "37": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/synthwave_punk_v2_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/synthwave_punk_v2_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/synthwave_punk_v2_webui_colab.ipynb",
+        "name": "synthwave_punk_v2_webui_colab",
+        "token": "(Use the tokens `snthwve style`  `nvinkpunk` in your prompts for the effect.)",
+        "page": "ItsJayQz/SynthwavePunk-v2",
+        "url": "https://huggingface.co/ItsJayQz/SynthwavePunk-v2",
+        "thanks": ""
+    },
+    "38": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/illustration_diffusion_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/illustration_diffusion_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/illustration_diffusion_webui_colab.ipynb",
+        "name": "illustration_diffusion_webui_colab",
+        "token": "(Use the tokens `holliemengert artstyle` in your prompts for the effect.)",
+        "page": "ogkalu/Illustration-Diffusion",
+        "url": "https://huggingface.co/ogkalu/Illustration-Diffusion",
+        "thanks": ""
+    },
+    "39": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/seek_art_mega_v1_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/seek_art_mega_v1_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/seek_art_mega_v1_webui_colab.ipynb",
+        "name": "seek_art_mega_v1_webui_colab",
+        "token": "",
+        "page": "coreco/seek.art_MEGA",
+        "url": "https://huggingface.co/coreco/seek.art_MEGA",
+        "thanks": ""
+    },
+    "40": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/popup_book_diffusion_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/popup_book_diffusion_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/popup_book_diffusion_webui_colab.ipynb",
+        "name": "popup_book_diffusion_webui_colab",
+        "token": "(Use the tokens `popupBook` in your prompts for the effect.)",
+        "page": "RayHell/popupBook-diffusion",
+        "url": "https://huggingface.co/RayHell/popupBook-diffusion",
+        "thanks": ""
+    },
+    "41": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/waifu_diffusion_v1_4_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/waifu_diffusion_v1_4_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/waifu_diffusion_v1_4_webui_colab.ipynb",
+        "name": "waifu_diffusion_v1_4_webui_colab",
+        "token": "",
+        "page": "hakurei/waifu-diffusion-v1-4",
+        "url": "https://huggingface.co/hakurei/waifu-diffusion-v1-4",
+        "thanks": ""
+    },
+    "42": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/protogen_v2_2_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/protogen_v2_2_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/protogen_v2_2_webui_colab.ipynb",
+        "name": "protogen_v2_2_webui_colab",
+        "token": "",
+        "page": "ckpt/Protogen_V2.2",
+        "url": "https://huggingface.co/ckpt/Protogen_V2.2",
+        "thanks": ""
+    },
+    "43": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/elldreths_lucid_mix_v10_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/elldreths_lucid_mix_v10_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/elldreths_lucid_mix_v10_webui_colab.ipynb",
+        "name": "elldreths_lucid_mix_v10_webui_colab",
+        "token": "",
+        "page": "ckpt/elldrethSLucidMix_v10",
+        "url": "https://huggingface.co/ckpt/elldrethSLucidMix_v10",
+        "thanks": ""
+    },
+    "44": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/all_in_one_pixel_model_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/all_in_one_pixel_model_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/all_in_one_pixel_model_webui_colab.ipynb",
+        "name": "all_in_one_pixel_model_webui_colab",
+        "token": "(Use the tokens `pixelsprite` `16bitscene` in your prompts for the effect.)",
+        "page": "PublicPrompts/All-In-One-Pixel-Model",
+        "url": "https://huggingface.co/PublicPrompts/All-In-One-Pixel-Model",
+        "thanks": ""
+    },
+    "45": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/cafe_instagram_v6_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/cafe_instagram_v6_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/cafe_instagram_v6_webui_colab.ipynb",
+        "name": "cafe_instagram_v6_webui_colab",
+        "token": "",
+        "page": "cafeai/cafe-instagram-sd-1-5-v6",
+        "url": "https://huggingface.co/cafeai/cafe-instagram-sd-1-5-v6",
+        "thanks": ""
+    },
+    "46": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/cinematic_diffusion_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/cinematic_diffusion_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/cinematic_diffusion_webui_colab.ipynb",
+        "name": "cinematic_diffusion_webui_colab",
+        "token": "(Use the tokens `syberart` in your prompts for the effect.)",
+        "page": "Basunat/Cinematic-Diffusion",
+        "url": "https://huggingface.co/Basunat/Cinematic-Diffusion",
+        "thanks": ""
+    },
+    "47": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/food_crit_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/food_crit_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/food_crit_webui_colab.ipynb",
+        "name": "food_crit_webui_colab",
+        "token": "(Use the tokens `food_crit` in your prompts for the effect.)",
+        "page": "plasmo/food-crit",
+        "url": "https://huggingface.co/plasmo/food-crit",
+        "thanks": ""
+    },
+    "48": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/simpmaker_3k_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/simpmaker_3k_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/simpmaker_3k_webui_colab.ipynb",
+        "name": "simpmaker_3k_webui_colab",
+        "token": "",
+        "page": "AmethystVera/SimpMaker-3K1",
+        "url": "https://huggingface.co/AmethystVera/SimpMaker-3K1",
+        "thanks": ""
+    },
+    "49": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/duchaitenaiart_v1_1_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/duchaitenaiart_v1_1_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/duchaitenaiart_v1_1_webui_colab.ipynb",
+        "name": "duchaitenaiart_v1_1_webui_colab",
+        "token": "",
+        "page": "DucHaiten/DucHaitenAIart",
+        "url": "https://huggingface.co/DucHaiten/DucHaitenAIart",
+        "thanks": "Thanks to DucHaiten for the suggestion \u2764"
+    },
+    "50": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/uber_realistic_v1_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/uber_realistic_v1_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/uber_realistic_v1_webui_colab.ipynb",
+        "name": "uber_realistic_v1_webui_colab",
+        "token": "",
+        "page": "lilpotat/urp",
+        "url": "https://huggingface.co/lilpotat/urp",
+        "thanks": "Thanks to cdefghijkl for the suggestion \u2764"
+    },
+    "51": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/izumi_v1_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/izumi_v1_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/izumi_v1_webui_colab.ipynb",
+        "name": "izumi_v1_webui_colab",
+        "token": "",
+        "page": "lilpotat/iz",
+        "url": "https://huggingface.co/lilpotat/iz",
+        "thanks": ""
+    },
+    "52": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/yiffy_mix_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/yiffy_mix_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/yiffy_mix_webui_colab.ipynb",
+        "name": "yiffy_mix_webui_colab",
+        "token": "",
+        "page": "chilon249/yiffymix",
+        "url": "https://civitai.com/models/3671/yiffymix",
+        "thanks": ""
+    },
+    "53": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/babes_blend_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/babes_blend_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/babes_blend_webui_colab.ipynb",
+        "name": "babes_blend_webui_colab",
+        "token": "",
+        "page": "alexds9/babes",
+        "url": "https://civitai.com/models/2220/babes",
+        "thanks": ""
+    },
+    "54": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/samdoessexy_blend_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/samdoessexy_blend_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/samdoessexy_blend_webui_colab.ipynb",
+        "name": "samdoessexy_blend_webui_colab",
+        "token": "",
+        "page": "thecollector/samdoessexy-blend",
+        "url": "https://civitai.com/models/1180/samdoessexy-blend",
+        "thanks": ""
+    },
+    "55": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/comics_blend_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/comics_blend_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/comics_blend_webui_colab.ipynb",
+        "name": "comics_blend_webui_colab",
+        "token": "(Use the tokens `ComplexLA style` `nvinkpunk`",
+        "page": "fiacr/comicsblend",
+        "url": "https://civitai.com/models/1491/comicsblend",
+        "thanks": ""
+    },
+    "56": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/dream_like_sam_kuvshino_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/dream_like_sam_kuvshino_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/dream_like_sam_kuvshino_webui_colab.ipynb",
+        "name": "dream_like_sam_kuvshino_webui_colab",
+        "token": "",
+        "page": "ratkovm8640/dreamlikesamkuvshinov",
+        "url": "https://civitai.com/models/1473/dreamlikesamkuvshinov",
+        "thanks": ""
+    },
+    "57": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/8528_diffusion_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/8528_diffusion_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/8528_diffusion_webui_colab.ipynb",
+        "name": "8528_diffusion_webui_colab",
+        "token": "",
+        "page": "852wa/8528-diffusion",
+        "url": "https://huggingface.co/852wa/8528-diffusion",
+        "thanks": "Thanks to \u9ec4\u8272\u3044\u30d0\u30e9 for the suggestion \u2764"
+    },
+    "58": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/hasdx_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/hasdx_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/hasdx_webui_colab.ipynb",
+        "name": "hasdx_webui_colab",
+        "token": "",
+        "page": "bestjammer/hasdx",
+        "url": "https://civitai.com/models/3758/hasdx",
+        "thanks": "Thanks to EBIX_benis for the suggestion \u2764"
+    },
+    "59": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/abyss_orange_mix_2_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/abyss_orange_mix_2_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/abyss_orange_mix_2_webui_colab.ipynb",
+        "name": "abyss_orange_mix_2_webui_colab",
+        "token": "",
+        "page": "WarriorMama777/OrangeMixs",
+        "url": "https://huggingface.co/WarriorMama777/OrangeMixs",
+        "thanks": ""
+    },
+    "60": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/dreamlike_photoreal_2_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/dreamlike_photoreal_2_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/dreamlike_photoreal_2_webui_colab.ipynb",
+        "name": "dreamlike_photoreal_2_webui_colab",
+        "token": "",
+        "page": "dreamlike-art/dreamlike-photoreal-2.0",
+        "url": "https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0",
+        "thanks": ""
+    },
+    "61": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/photorealistic_fuen_v1_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/photorealistic_fuen_v1_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/photorealistic_fuen_v1_webui_colab.ipynb",
+        "name": "photorealistic_fuen_v1_webui_colab",
+        "token": "",
+        "page": "claudfuen/photorealistic-fuen-v1",
+        "url": "https://huggingface.co/claudfuen/photorealistic-fuen-v1",
+        "thanks": ""
+    },
+    "62": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/cool_japan_diffusion_2_1_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/cool_japan_diffusion_2_1_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/cool_japan_diffusion_2_1_webui_colab.ipynb",
+        "name": "cool_japan_diffusion_2_1_webui_colab",
+        "token": "",
+        "page": "aipicasso/cool-japan-diffusion-2-1-0",
+        "url": "https://huggingface.co/aipicasso/cool-japan-diffusion-2-1-0",
+        "thanks": ""
+    },
+    "63": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/anything_gape_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/anything_gape_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/anything_gape_webui_colab.ipynb",
+        "name": "anything_gape_webui_colab",
+        "token": "",
+        "page": "Inzamam567/AnyGape",
+        "url": "https://huggingface.co/Inzamam567/AnyGape",
+        "thanks": "Thanks to soliwoli for the suggestion \u2764"
+    },
+    "64": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/anything_4_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/anything_4_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/anything_4_webui_colab.ipynb",
+        "name": "anything_4_webui_colab",
+        "token": "",
+        "page": "andite/anything-v4.0",
+        "url": "https://huggingface.co/andite/anything-v4.0",
+        "thanks": ""
+    },
+    "65": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/counterfeit_v2_0_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/counterfeit_v2_0_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/counterfeit_v2_0_webui_colab.ipynb",
+        "name": "counterfeit_v2_0_webui_colab",
+        "token": "",
+        "page": "gsdf/Counterfeit-V2.0",
+        "url": "https://huggingface.co/gsdf/Counterfeit-V2.0",
+        "thanks": "Thanks to \u9ec4\u8272\u3044\u30d0\u30e9 for the suggestion \u2764"
+    },
+    "66": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/grapefruit_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/grapefruit_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/grapefruit_webui_colab.ipynb",
+        "name": "grapefruit_webui_colab",
+        "token": "",
+        "page": "ckpt/grapefruit",
+        "url": "https://huggingface.co/ckpt/grapefruit",
+        "thanks": ""
+    },
+    "67": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/open_anime_journey_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/open_anime_journey_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/open_anime_journey_webui_colab.ipynb",
+        "name": "open_anime_journey_webui_colab",
+        "token": "",
+        "page": "MehjourneyClosedAI/OpenAnimeJourney",
+        "url": "https://huggingface.co/MehjourneyClosedAI/OpenAnimeJourney",
+        "thanks": "Thanks to \u9ec4\u8272\u3044\u30d0\u30e9 for the suggestion \u2764"
+    },
+    "68": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/a_certainty_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/a_certainty_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/a_certainty_webui_colab.ipynb",
+        "name": "a_certainty_webui_colab",
+        "token": "",
+        "page": "JosephusCheung/ACertainty",
+        "url": "https://huggingface.co/JosephusCheung/ACertainty",
+        "thanks": ""
+    },
+    "69": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/a_certain_model_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/a_certain_model_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/a_certain_model_webui_colab.ipynb",
+        "name": "a_certain_model_webui_colab",
+        "token": "",
+        "page": "JosephusCheung/ACertainModel",
+        "url": "https://huggingface.co/JosephusCheung/ACertainModel",
+        "thanks": ""
+    },
+    "70": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/a_certain_thing_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/a_certain_thing_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/a_certain_thing_webui_colab.ipynb",
+        "name": "a_certain_thing_webui_colab",
+        "token": "",
+        "page": "JosephusCheung/ACertainThing",
+        "url": "https://huggingface.co/JosephusCheung/ACertainThing",
+        "thanks": ""
+    },
+    "71": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/7th_layer_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/7th_layer_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/7th_layer_webui_colab.ipynb",
+        "name": "7th_layer_webui_colab",
+        "token": "",
+        "page": "syaimu/7th_Layer",
+        "url": "https://huggingface.co/syaimu/7th_Layer",
+        "thanks": "Thanks to Cherryblossomoflove for the suggestion \u2764"
+    },
+    "72": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/rpg_v4_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/rpg_v4_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/rpg_v4_webui_colab.ipynb",
+        "name": "rpg_v4_webui_colab",
+        "token": "",
+        "page": "Anashel/rpg",
+        "url": "https://huggingface.co/Anashel/rpg",
+        "thanks": "Thanks to brunocalado for the suggestion \u2764"
+    },
+    "73": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/waifu_diffusion_v1_5_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/waifu_diffusion_v1_5_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/waifu_diffusion_v1_5_webui_colab.ipynb",
+        "name": "waifu_diffusion_v1_5_webui_colab",
+        "token": "",
+        "page": "waifu-diffusion/wd-1-5-beta",
+        "url": "https://huggingface.co/waifu-diffusion/wd-1-5-beta",
+        "thanks": ""
+    },
+    "74": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/protogen_nova_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/protogen_nova_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/protogen_nova_webui_colab.ipynb",
+        "name": "protogen_nova_webui_colab",
+        "token": "",
+        "page": "darkstorm2150/Protogen_Nova_Official_Release",
+        "url": "https://huggingface.co/darkstorm2150/Protogen_Nova_Official_Release",
+        "thanks": "Thanks to alvaromaltrain for the suggestion \u2764"
+    },
+    "75": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/protogen_x3_4_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/protogen_x3_4_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/protogen_x3_4_webui_colab.ipynb",
+        "name": "protogen_x3_4_webui_colab",
+        "token": "",
+        "page": "darkstorm2150/Protogen_x3.4_Official_Release",
+        "url": "https://huggingface.co/darkstorm2150/Protogen_x3.4_Official_Release",
+        "thanks": "Thanks to alvaromaltrain for the suggestion \u2764"
+    },
+    "76": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/dreamshaper_3_32_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/dreamshaper_3_32_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/dreamshaper_3_32_webui_colab.ipynb",
+        "name": "dreamshaper_3_32_webui_colab",
+        "token": "",
+        "page": "Lykon/DreamShaper",
+        "url": "https://huggingface.co/Lykon/DreamShaper",
+        "thanks": "Thanks to wetcircle for the suggestion \u2764"
+    },
+    "77": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/abyss_orange_mix_3_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/abyss_orange_mix_3_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/abyss_orange_mix_3_webui_colab.ipynb",
+        "name": "abyss_orange_mix_3_webui_colab",
+        "token": "",
+        "page": "WarriorMama777/OrangeMixs",
+        "url": "https://huggingface.co/WarriorMama777/OrangeMixs",
+        "thanks": ""
+    },
+    "78": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/neverending_dream_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/neverending_dream_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/neverending_dream_webui_colab.ipynb",
+        "name": "neverending_dream_webui_colab",
+        "token": "",
+        "page": "Lykon/neverending-dream",
+        "url": "https://civitai.com/models/10028/neverending-dream",
+        "thanks": ""
+    },
+    "79": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/deliberate_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/deliberate_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/deliberate_webui_colab.ipynb",
+        "name": "deliberate_webui_colab",
+        "token": "",
+        "page": "XpucT/deliberate",
+        "url": "https://civitai.com/models/4823/deliberate",
+        "thanks": ""
+    },
+    "80": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/vinte_protogen_mix_v_1_0_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/vinte_protogen_mix_v_1_0_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/vinte_protogen_mix_v_1_0_webui_colab.ipynb",
+        "name": "vinte_protogen_mix_v_1_0_webui_colab",
+        "token": "",
+        "page": "xxlmaes/vinteprotogenmix-v10",
+        "url": "https://civitai.com/models/5657/vinteprotogenmix-v10",
+        "thanks": ""
+    },
+    "81": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/chillout_mix_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/chillout_mix_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/chillout_mix_webui_colab.ipynb",
+        "name": "chillout_mix_webui_colab",
+        "token": "",
+        "page": "civitai/chilloutmix",
+        "url": "https://civitai.com/models/6424/chilloutmix",
+        "thanks": ""
+    },
+    "82": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/pastel_mix_stylized_anime_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/pastel_mix_stylized_anime_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/pastel_mix_stylized_anime_webui_colab.ipynb",
+        "name": "pastel_mix_stylized_anime_webui_colab",
+        "token": "",
+        "page": "andite/pastel-mix-stylized-anime-model",
+        "url": "https://civitai.com/models/5414/pastel-mix-stylized-anime-model",
+        "thanks": "Thanks to Rimuru for the suggestion \u2764"
+    },
+    "83": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/color_bomb_mix_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/color_bomb_mix_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/color_bomb_mix_webui_colab.ipynb",
+        "name": "color_bomb_mix_webui_colab",
+        "token": "",
+        "page": "mocker/KaBoom",
+        "url": "https://huggingface.co/mocker/KaBoom",
+        "thanks": "Thanks to Rimuru for the suggestion \u2764"
+    },
+    "84": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/mousey_mix_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/mousey_mix_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/mousey_mix_webui_colab.ipynb",
+        "name": "mousey_mix_webui_colab",
+        "token": "",
+        "page": "closertodeath/mouseymix",
+        "url": "https://huggingface.co/closertodeath/mouseymix",
+        "thanks": "Thanks to \u9ec4\u8272\u3044\u30d0\u30e9 for the suggestion "
+    },
+    "85": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/dpepmkmp_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/dpepmkmp_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/dpepmkmp_webui_colab.ipynb",
+        "name": "dpepmkmp_webui_colab",
+        "token": "",
+        "page": "closertodeath/dpepmkmp",
+        "url": "https://huggingface.co/closertodeath/dpepmkmp",
+        "thanks": "Thanks to \u9ec4\u8272\u3044\u30d0\u30e9 for the suggestion)<br /> [closertodeath/dpepmkmp](https://huggingface.co/closertodeath/dpepmkmp"
+    },
+    "86": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/waifu_diffusion_v1_5_b2_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/waifu_diffusion_v1_5_b2_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/waifu_diffusion_v1_5_b2_webui_colab.ipynb",
+        "name": "waifu_diffusion_v1_5_b2_webui_colab",
+        "token": "",
+        "page": "waifu-diffusion/wd-1-5-beta2",
+        "url": "https://huggingface.co/waifu-diffusion/wd-1-5-beta2",
+        "thanks": ""
+    },
+    "87": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/padoru_v1_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/padoru_v1_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/padoru_v1_webui_colab.ipynb",
+        "name": "padoru_v1_webui_colab",
+        "token": "",
+        "page": "jawgboi/padoru-diffusion",
+        "url": "https://civitai.com/models/1422/padoru-diffusion",
+        "thanks": ""
+    },
+    "88": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/refslave_v2_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/refslave_v2_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/refslave_v2_webui_colab.ipynb",
+        "name": "refslave_v2_webui_colab",
+        "token": "",
+        "page": "AgraFL/RefSlave-V2",
+        "url": "https://huggingface.co/AgraFL/RefSlave-V2",
+        "thanks": "Thanks to Rimuru for the suggestion \u2764"
+    },
+    "89": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/liberty_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/liberty_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/liberty_webui_colab.ipynb",
+        "name": "liberty_webui_colab",
+        "token": "",
+        "page": "aine_captain/liberty",
+        "url": "https://civitai.com/models/5935/liberty",
+        "thanks": "Thanks to Max Payne for the suggestion \u2764"
+    },
+    "90": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/graphic_art_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/graphic_art_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/graphic_art_webui_colab.ipynb",
+        "name": "graphic_art_webui_colab",
+        "token": "",
+        "page": "pmejna/graphic-art",
+        "url": "https://civitai.com/models/7884/graphic-art",
+        "thanks": "Thanks to driftr for the suggestion \u2764"
+    },
+    "91": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/stablydiffuseds_aesthetic_mix_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/stablydiffuseds_aesthetic_mix_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/stablydiffuseds_aesthetic_mix_webui_colab.ipynb",
+        "name": "stablydiffuseds_aesthetic_mix_webui_colab",
+        "token": "",
+        "page": "stablydiffused/stablydiffuseds-aesthetic-mix",
+        "url": "https://civitai.com/models/4443/stablydiffuseds-aesthetic-mix",
+        "thanks": "Thanks to Tanmayy for the suggestion \u2764"
+    },
+    "92": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/alfamix_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/alfamix_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/alfamix_webui_colab.ipynb",
+        "name": "alfamix_webui_colab",
+        "token": "",
+        "page": "ShatalinART/Alfamix",
+        "url": "https://civitai.com/models/15099",
+        "thanks": ""
+    },
+    "93": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/defmix_v2_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/defmix_v2_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/defmix_v2_webui_colab.ipynb",
+        "name": "defmix_v2_webui_colab",
+        "token": "",
+        "page": "Defpoint/Defmix-v2.0",
+        "url": "https://huggingface.co/Defpoint/Defmix-v2.0",
+        "thanks": "Thanks to shinya. for the suggestion \u2764"
+    },
+    "94": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/sukiyaki_mix_v1_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/sukiyaki_mix_v1_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/sukiyaki_mix_v1_webui_colab.ipynb",
+        "name": "sukiyaki_mix_v1_webui_colab",
+        "token": "",
+        "page": "Vsukiyaki/SukiyakiMix-v1.0",
+        "url": "https://huggingface.co/Vsukiyaki/SukiyakiMix-v1.0",
+        "thanks": "Thanks to shinya. for the suggestion \u2764"
+    },
+    "95": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/voxo_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/voxo_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/voxo_webui_colab.ipynb",
+        "name": "voxo_webui_colab",
+        "token": "",
+        "page": "junjuice0/VOXO",
+        "url": "https://huggingface.co/junjuice0/VOXO",
+        "thanks": "Thanks to shinya. for the suggestion \u2764"
+    },
+    "96": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/pvc_v3_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/pvc_v3_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/pvc_v3_webui_colab.ipynb",
+        "name": "pvc_v3_webui_colab",
+        "token": "",
+        "page": "p1atdev/pvc-v3",
+        "url": "https://huggingface.co/p1atdev/pvc-v3",
+        "thanks": "Thanks to shinya. for the suggestion \u2764"
+    },
+    "97": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/realistic_vision_v13_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/realistic_vision_v13_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/realistic_vision_v13_webui_colab.ipynb",
+        "name": "realistic_vision_v13_webui_colab",
+        "token": "",
+        "page": "SG_161222/realistic-vision-v13-fantasyai",
+        "url": "https://civitai.com/models/4201/realistic-vision-v13-fantasyai",
+        "thanks": "Thanks to Ann Dee. for the suggestion \u2764"
+    },
+    "98": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/mare_coloris_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/mare_coloris_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/mare_coloris_webui_colab.ipynb",
+        "name": "mare_coloris_webui_colab",
+        "token": "",
+        "page": "Lucetepolis/MareColoris",
+        "url": "https://huggingface.co/Lucetepolis/MareColoris",
+        "thanks": ""
+    },
+    "99": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/magical_mix_v1_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/magical_mix_v1_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/magical_mix_v1_webui_colab.ipynb",
+        "name": "magical_mix_v1_webui_colab",
+        "token": "",
+        "page": "mekabu/MagicalMix_v1",
+        "url": "https://huggingface.co/mekabu/MagicalMix_v1",
+        "thanks": ""
+    },
+    "100": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/perfect_world_v2_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/perfect_world_v2_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/perfect_world_v2_webui_colab.ipynb",
+        "name": "perfect_world_v2_webui_colab",
+        "token": "",
+        "page": "Bloodsuga/perfect-world",
+        "url": "https://civitai.com/models/8281/perfect-world",
+        "thanks": "Thanks to machiavel23. for the suggestion \u2764"
+    },
+    "101": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/experience_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/experience_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/experience_webui_colab.ipynb",
+        "name": "experience_webui_colab",
+        "token": "",
+        "page": "Schisim/Experience",
+        "url": "https://huggingface.co/Schisim/Experience",
+        "thanks": ""
+    },
+    "102": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/526_mix_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/526_mix_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/526_mix_webui_colab.ipynb",
+        "name": "526_mix_webui_colab",
+        "token": "",
+        "page": "526christian/526mix-experimental-version",
+        "url": "https://civitai.com/models/15022/526mix-experimental-version",
+        "thanks": ""
+    },
+    "103": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/realbiter_v1_0_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/realbiter_v1_0_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/realbiter_v1_0_webui_colab.ipynb",
+        "name": "realbiter_v1_0_webui_colab",
+        "token": "",
+        "page": "Bitter_bite/realbiter",
+        "url": "https://civitai.com/models/16592/realbiter",
+        "thanks": "Thanks to Winnougan for the suggestion \u2764"
+    },
+    "104": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/magical_mix_v2_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/magical_mix_v2_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/magical_mix_v2_webui_colab.ipynb",
+        "name": "magical_mix_v2_webui_colab",
+        "token": "",
+        "page": "mekabu/MagicalMix_v2",
+        "url": "https://huggingface.co/mekabu/MagicalMix_v2",
+        "thanks": "Thanks to \u9ec4\u8272\u3044\u30d0\u30e9 for the suggestion \u2764"
+    },
+    "105": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/pony_diffusion_v3_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/pony_diffusion_v3_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/pony_diffusion_v3_webui_colab.ipynb",
+        "name": "pony_diffusion_v3_webui_colab ",
+        "token": "",
+        "page": "AstraliteHeart/pony-diffusion-v3",
+        "url": "https://huggingface.co/AstraliteHeart/pony-diffusion-v3",
+        "thanks": ""
+    },
+    "106": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/cetus_mix_v3_1_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/cetus_mix_v3_1_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/cetus_mix_v3_1_webui_colab.ipynb",
+        "name": "cetus_mix_v3_1_webui_colab",
+        "token": "",
+        "page": "Eagelaxis/cetus-mix",
+        "url": "https://civitai.com/models/6755/cetus-mix",
+        "thanks": "Thanks to exrecc and Mar0xy for the suggestion \u2764"
+    },
+    "107": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/faetastic_v1_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/faetastic_v1_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/faetastic_v1_webui_colab.ipynb",
+        "name": "faetastic_v1_webui_colab",
+        "token": "",
+        "page": "Faeia/faetastic",
+        "url": "https://civitai.com/models/14065/faetastic",
+        "thanks": "Thanks to CitizenChained for the suggestion \u2764"
+    },
+    "108": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/robo_diffusion_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/robo_diffusion_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/robo_diffusion_webui_colab.ipynb",
+        "name": "robo_diffusion_webui_colab",
+        "token": "",
+        "page": "nousr/robo-diffusion",
+        "url": "https://civitai.com/models/42/robo-diffusion",
+        "thanks": "Thanks to KTB187 for the suggestion \u2764"
+    },
+    "109": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/fantasy_world_v1_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/fantasy_world_v1_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/fantasy_world_v1_webui_colab.ipynb",
+        "name": "fantasy_world_v1_webui_colab",
+        "token": "",
+        "page": "Satyam_SSJ10/fantasy-world",
+        "url": "https://civitai.com/models/11031/fantasy-world",
+        "thanks": "Thanks to toumorokoshin for the suggestion \u2764"
+    },
+    "110": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/pony_v4_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/pony_v4_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/pony_v4_webui_colab.ipynb",
+        "name": "pony_v4_webui_colab",
+        "token": "",
+        "page": "AstraliteHeart/pony-diffusion-v4",
+        "url": "https://huggingface.co/AstraliteHeart/pony-diffusion-v4",
+        "thanks": "Thanks to Daniel Skunk for the suggestion \u2764"
+    },
+    "111": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/uber_realistic_merge_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/uber_realistic_merge_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/uber_realistic_merge_webui_colab.ipynb",
+        "name": "uber_realistic_merge_webui_colab",
+        "token": "",
+        "page": "saftle/urpm",
+        "url": "https://huggingface.co/ckpt/urpm",
+        "thanks": "Thanks to 7854623 for the suggestion \u2764"
+    },
+    "112": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/openjourney_v4_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/openjourney_v4_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/openjourney_v4_webui_colab.ipynb",
+        "name": "openjourney_v4_webui_colab ",
+        "token": "",
+        "page": "prompthero/openjourney-v4",
+        "url": "https://huggingface.co/prompthero/openjourney-v4",
+        "thanks": ""
+    },
+    "113": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/dosmix_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/dosmix_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/dosmix_webui_colab.ipynb",
+        "name": "dosmix_webui_colab",
+        "token": "",
+        "page": "DiaryOfSta/dosmix",
+        "url": "https://civitai.com/models/6250/dosmix",
+        "thanks": ""
+    },
+    "114": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/meina_mix_v8_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/meina_mix_v8_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/meina_mix_v8_webui_colab.ipynb",
+        "name": "meina_mix_v8_webui_colab ",
+        "token": "",
+        "page": "Meina/meinamix",
+        "url": "https://civitai.com/models/7240/meinamix",
+        "thanks": ""
+    },
+    "115": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/rev_animated_v1_1_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/rev_animated_v1_1_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/rev_animated_v1_1_webui_colab.ipynb",
+        "name": "rev_animated_v1_1_webui_colab ",
+        "token": "",
+        "page": "s6yx/rev-animated",
+        "url": "https://civitai.com/models/7371/rev-animated",
+        "thanks": "Thanks to Koneko\u2741\u06ea\u06ea\u0f74\u2661 for the suggestion \u2764"
+    },
+    "116": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/rmada_merge_v5_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/rmada_merge_v5_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/rmada_merge_v5_webui_colab.ipynb",
+        "name": "rmada_merge_v5_webui_colab ",
+        "token": "",
+        "page": "rMada/rmada-merge-sd-21-768",
+        "url": "https://civitai.com/models/15303/rmada-merge-sd-21-768",
+        "thanks": ""
+    },
+    "117": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/rmadart_v5_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/rmadart_v5_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/rmadart_v5_webui_colab.ipynb",
+        "name": "rmadart_v5_webui_colab ",
+        "token": "",
+        "page": "rMada/rmadart-sd15",
+        "url": "https://civitai.com/models/18208/rmadart-sd15",
+        "thanks": ""
+    },
+    "118": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/realistic_vision_v20_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/realistic_vision_v20_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/realistic_vision_v20_webui_colab.ipynb",
+        "name": "realistic_vision_v20_webui_colab ",
+        "token": "",
+        "page": "SG_161222/realistic-vision-v20",
+        "url": "https://civitai.com/models/4201/realistic-vision-v20",
+        "thanks": ""
+    },
+    "119": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/seekart_mega_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/seekart_mega_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/seekart_mega_webui_colab.ipynb",
+        "name": "seekart_mega_webui_colab",
+        "token": "",
+        "page": "coreco/seekart-mega",
+        "url": "https://civitai.com/models/1315/seekart-mega",
+        "thanks": "Thanks to KTB187 for the suggestion \u2764"
+    },
+    "120": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/pastel_boys_2d_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/pastel_boys_2d_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/pastel_boys_2d_webui_colab.ipynb",
+        "name": "pastel_boys_2d_webui_colab",
+        "token": "",
+        "page": "bodlo/pastelboys2d",
+        "url": "https://civitai.com/models/22730/pastelboys2d",
+        "thanks": "Thanks to Koneko\u2741\u06ea\u06ea\u0f74\u2661 for the suggestion \u2764"
+    },
+    "121": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/dark_sushi_mix_mix_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/dark_sushi_mix_mix_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/dark_sushi_mix_mix_webui_colab.ipynb",
+        "name": "dark_sushi_mix_mix_webui_colab",
+        "token": "",
+        "page": "Aitasai/dark-sushi-mix-mix",
+        "url": "https://civitai.com/models/24779/dark-sushi-mix-mix",
+        "thanks": "Thanks to AYAYA for the suggestion \u2764"
+    },
+    "122": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/nostalgia_clear_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/nostalgia_clear_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/nostalgia_clear_webui_colab.ipynb",
+        "name": "nostalgia_clear_webui_colab",
+        "token": "",
+        "page": "cometshooting/nostalgia-clear",
+        "url": "https://civitai.com/models/17461/nostalgia-clear",
+        "thanks": "Thanks to Ian Malkav for the suggestion \u2764"
+    },
+    "123": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/anylora_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/anylora_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/anylora_webui_colab.ipynb",
+        "name": "anylora_webui_colab",
+        "token": "",
+        "page": "Lykon/anylora",
+        "url": "https://civitai.com/models/23900/anylora",
+        "thanks": "Thanks to etherealxx for the suggestion \u2764"
+    },
+    "124": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/pegasus_9_mix_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/pegasus_9_mix_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/pegasus_9_mix_webui_colab.ipynb",
+        "name": "pegasus_9_mix_webui_colab",
+        "token": "",
+        "page": "demonfaith/pegasus-9-mix",
+        "url": "https://civitai.com/models/20195/pegasus-9-mix",
+        "thanks": "Thanks to imi for the suggestion \u2764"
+    },
+    "125": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/cheese_daddys_landscapes_mix_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/cheese_daddys_landscapes_mix_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/cheese_daddys_landscapes_mix_webui_colab.ipynb",
+        "name": "cheese_daddys_landscapes_mix_webui_colab",
+        "token": "",
+        "page": "cheesedaddy/cheese-daddys-landscapes-mix",
+        "url": "https://civitai.com/models/5041/cheese-daddys-landscapes-mix",
+        "thanks": "Thanks to Aurelie for the suggestion \u2764"
+    },
+    "126": {
+        "lite": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/lucky_strike_mix_webui_colab.ipynb",
+        "stable": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/lucky_strike_mix_webui_colab.ipynb",
+        "nightly": "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/lucky_strike_mix_webui_colab.ipynb",
+        "name": "lucky_strike_mix_webui_colab",
+        "token": "",
+        "page": "kinshin007/lucky-strike-mix",
+        "url": "https://civitai.com/models/13034/lucky-strike-mix",
+        "thanks": "Thanks to Koneko\u2741\u06ea\u06ea\u0f74\u2661 for the suggestion \u2764"
+    }
+}
